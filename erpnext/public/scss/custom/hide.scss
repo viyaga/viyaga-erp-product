@@ -1,0 +1,14 @@
+.desk-sidebar-item:has(a[title="ERPNext Settings"]),
+.desk-sidebar-item a[title="ERPNext Settings"] {
+    display: none !important;
+}
+
+.desk-sidebar-item:has(a[title="ERPNext Integrations"]),
+.desk-sidebar-item a[title="ERPNext Integrations"] {
+    display: none !important;
+}
+
+.desk-sidebar-item:has(a[title="Build"]),
+.desk-sidebar-item a[title="Build"] {
+    display: none !important;
+}
