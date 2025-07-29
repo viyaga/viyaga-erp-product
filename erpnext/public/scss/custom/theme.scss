@@ -1,0 +1,58 @@
+/* custom_desk_buttons.css */
+
+/* ───────────────────────────────────────────
+   PRIMARY BUTTON (SOLID)
+──────────────────────────────────────────── */
+
+/* LIGHT THEME */
+[data-theme="light"] .btn-primary {
+  background-color: #2fb97d !important;
+  border-color:     #2fb97d !important;
+  color:            #ffffff !important;
+}
+[data-theme="light"] .btn-primary:hover,
+[data-theme="light"] .btn-primary:focus {
+  background-color: #4ad3a1 !important; /* ~lighten by 10% */
+  border-color:     #4ad3a1 !important;
+}
+
+/* DARK THEME */
+[data-theme="dark"] .btn-primary {
+  background-color: #2fb97d !important;
+  border-color:     #2fb97d !important;
+  color:            #ffffff !important;
+}
+[data-theme="dark"] .btn-primary:hover,
+[data-theme="dark"] .btn-primary:focus {
+  background-color: #4ad3a1 !important; /* same lighten */
+  border-color:     #4ad3a1 !important;
+}
+
+
+/* ───────────────────────────────────────────
+   PRIMARY BUTTON (OUTLINE)
+──────────────────────────────────────────── */
+
+/* LIGHT */
+[data-theme="light"] .btn-outline-primary {
+  color:            #2fb97d !important;
+  border-color:     #2fb97d !important;
+}
+[data-theme="light"] .btn-outline-primary:hover,
+[data-theme="light"] .btn-outline-primary:focus {
+  color:            #ffffff !important;
+  background-color: #2fb97d !important;
+  border-color:     #2fb97d !important;
+}
+
+/* DARK */
+[data-theme="dark"] .btn-outline-primary {
+  color:            #2fb97d !important;
+  border-color:     #2fb97d !important;
+}
+[data-theme="dark"] .btn-outline-primary:hover,
+[data-theme="dark"] .btn-outline-primary:focus {
+  color:            #ffffff !important;
+  background-color: #2fb97d !important;
+  border-color:     #2fb97d !important;
+}

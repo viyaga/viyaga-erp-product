@@ -1,0 +1,131 @@
+.list-sidebar {
+  overflow-y: auto;
+  box-shadow: 2px 0 8px rgba(0, 0, 0, 0.2);
+
+  .desk-sidebar {
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .standard-sidebar-section {
+    &.nested-container {
+      padding: 0 0.5rem;
+    }
+
+    .standard-sidebar-label {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.5rem 0.75rem;
+      border-radius: 0.5rem;
+      font-weight: 500;
+      cursor: pointer;
+    }
+  }
+
+  .sidebar-item-container {
+    .desk-sidebar-item {
+      border-radius: 0.5rem;
+      padding: 0.4rem 0.6rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: background 0.2s;
+
+      .item-anchor {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        flex-grow: 1;
+
+        .sidebar-item-icon {
+          .icon {
+            width: 20px;
+            height: 20px;
+          }
+        }
+
+        .sidebar-item-label {
+          font-size: 0.95rem;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+      }
+
+      .sidebar-item-control {
+        display: flex;
+        align-items: center;
+        gap: 0.3rem;
+
+        .btn {
+          background: transparent;
+          border: none;
+          padding: 0.3rem;
+        }
+
+        .dropdown-list {
+          position: absolute;
+          border-radius: 0.5rem;
+          padding: 0.5rem 0;
+          top: 2rem;
+          right: 0;
+          z-index: 100;
+
+          .dropdown-item {
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+            padding: 0.4rem 1rem;
+            cursor: pointer;
+
+            .dropdown-item-icon .es-icon {
+              fill: currentColor;
+              width: 1rem;
+              height: 1rem;
+            }
+          }
+        }
+      }
+    }
+  }
+
+  .sidebar-child-item {
+    padding-left: 1.2rem;
+  }
+
+  .drop-icon {
+    display: flex;
+    align-items: center;
+    padding: 0.2rem;
+    background: transparent;
+    border: none;
+  }
+}
+
+@media (min-width: 992px) {
+  .layout-main {
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+
+    .layout-side-section {
+      overflow-y: auto;
+      position: relative;
+      z-index: 100;
+      padding: 0 !important;
+
+      .desk-sidebar {
+        white-space: normal;
+        overflow-x: hidden;
+        word-break: break-word;
+      }
+
+      .close-sidebar {
+        display: none !important;
+      }
+    }
+  }
+}
