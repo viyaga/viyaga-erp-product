@@ -50,7 +50,7 @@ def check_frappe_version():
 		return
 
 	click.secho(
-		f"You're attempting to install ERPNext version {erpnext_version} with Frappe version {frappe_version}. "
+		f"You're attempting to install ViyagaERP version {erpnext_version} with Frappe version {frappe_version}. "
 		"This is not supported and will result in broken install. Switch to correct branch before installing.",
 		fg="red",
 	)

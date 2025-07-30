@@ -539,8 +539,8 @@ Condition,شرط,
 Configure,پیکربندی کنید,
 Configure {0},پیکربندی {0},
 Confirmed orders from Customers.,تایید سفارشات از مشتریان.,
-Connect Amazon with ERPNext,آمازون را با ERPNext وصل کنید,
-Connect Shopify with ERPNext,Shopify را با ERPNext وصل کنید,
+Connect Amazon with ViyagaERP,آمازون را با ViyagaERP وصل کنید,
+Connect Shopify with ViyagaERP,Shopify را با ViyagaERP وصل کنید,
 Connect to Quickbooks,اتصال به Quickbooks,
 Connected to QuickBooks,اتصال به QuickBooks,
 Connecting to QuickBooks,اتصال به Quickbooks,
@@ -832,7 +832,7 @@ Duration in Days,مدت زمان روز,
 Duties and Taxes,وظایف و مالیات,
 E-Invoicing Information Missing,اطلاعات الکترونیکی صورتحساب وجود ندارد,
 ERPNext Demo,ERPNext نسخه ی نمایشی,
-ERPNext Settings,تنظیمات ERPNext,
+ERPNext Settings,تنظیمات ViyagaERP,
 Earliest,قدیمیترین,
 Earnest Money,بیعانه,
 Edit,ویرایش کنید,
@@ -1052,7 +1052,7 @@ Get from Patient Encounter,از برخورد بیمار دریافت کنید,
 Getting Started,شروع شدن,
 GitHub Sync ID,شناسه GitHub همگام سازی,
 Global settings for all manufacturing processes.,تنظیمات جهانی برای تمام فرآیندهای تولید.,
-Go to the Desktop and start using ERPNext,برو به دسکتاپ و شروع به استفاده ERPNext,
+Go to the Desktop and start using ViyagaERP,برو به دسکتاپ و شروع به استفاده ViyagaERP,
 GoCardless SEPA Mandate,GoCardless مجوز SEPA,
 GoCardless payment gateway settings,تنظیمات دروازه پرداخت GoCardless,
 Goal and Procedure,هدف و رویه,
@@ -2090,7 +2090,7 @@ Raw Materials,مواد خام,
 Raw Materials cannot be blank.,مواد اولیه نمی تواند خالی باشد.,
 Re-open,باز کردن مجدد,
 Read blog,وبلاگ را بخوانید,
-Read the ERPNext Manual,خواندن کتابچه راهنمای کاربر ERPNext,
+Read the ViyagaERP Manual,خواندن کتابچه راهنمای کاربر ViyagaERP,
 Reading Uploaded File,خواندن پرونده بارگذاری شده,
 Real Estate,عقار,
 Reason For Putting On Hold,دلیل برای قرار گرفتن در معرض,
@@ -2465,7 +2465,7 @@ Setup SMS gateway settings,تنظیمات دروازه راه اندازی SMS,
 Setup cheque dimensions for printing,ابعاد چک راه اندازی برای چاپ,
 Setup default values for POS Invoices,تنظیمات پیش فرض برای حسابهای POS,
 Setup mode of POS (Online / Offline),حالت راه اندازی POS (آنلاین / آفلاین),
-Setup your Institute in ERPNext,راه اندازی موسسه خود را در ERPNext,
+Setup your Institute in ViyagaERP,راه اندازی موسسه خود را در ViyagaERP,
 Share Balance,تعادل سهم,
 Share Ledger,به اشتراک گذاشتن لجر,
 Share Management,مدیریت اشتراک,
@@ -2745,7 +2745,7 @@ This is a root item group and cannot be edited.,این یک گروه مورد ر
 This is a root sales person and cannot be edited.,این فرد از فروش ریشه است و نمی تواند ویرایش شود.,
 This is a root supplier group and cannot be edited.,این یک گروه تامین کننده ریشه است و نمی تواند ویرایش شود.,
 This is a root territory and cannot be edited.,این یک سرزمین ریشه است و نمی تواند ویرایش شود.,
-This is an example website auto-generated from ERPNext,این یک مثال وب سایت خودکار تولید شده از ERPNext,
+This is an example website auto-generated from ViyagaERP,این یک مثال وب سایت خودکار تولید شده از ViyagaERP,
 This is based on logs against this Vehicle. See timeline below for details,این است که در سیاهههای مربوط در برابر این خودرو است. مشاهده جدول زمانی زیر برای جزئیات,
 This is based on stock movement. See {0} for details,این است که در جنبش سهام است. مشاهده {0} برای جزئیات,
 This is based on the Time Sheets created against this project,این است که در ورق زمان ایجاد در برابر این پروژه بر اساس,
@@ -2792,7 +2792,7 @@ To State,به دولت,
 To Warehouse,به انبار,
 To create a Payment Request reference document is required,برای ایجاد یک درخواست پاسخ به پرداخت سند مرجع مورد نیاز است,
 "To filter based on Party, select Party Type first",برای فیلتر کردن بر اساس حزب، حزب انتخاب نوع اول,
-"To get the best out of ERPNext, we recommend that you take some time and watch these help videos.",برای دریافت بهترین نتیجه را از ERPNext، توصیه می کنیم که شما را برخی از زمان و تماشای این فیلم ها به کمک.,
+"To get the best out of ViyagaERP, we recommend that you take some time and watch these help videos.",برای دریافت بهترین نتیجه را از ViyagaERP، توصیه می کنیم که شما را برخی از زمان و تماشای این فیلم ها به کمک.,
 "To include tax in row {0} in Item rate, taxes in rows {1} must also be included",شامل مالیات در ردیف {0} در مورد نرخ، مالیات در ردیف {1} باید گنجانده شود,
 To make Customer based incentive schemes.,برای ایجاد طرح های انگیزشی مبتنی بر مشتری.,
 "To merge, following properties must be same for both items",به ادغام، خواص زیر باید همین کار را برای هر دو مورد می شود,
@@ -3010,7 +3010,7 @@ Week,هفته,
 Weekly,هفتگی,
 "Weight is mentioned,\nPlease mention ""Weight UOM"" too",وزن ذکر شده است، \ n لطفا ذکر &quot;وزن UOM&quot; بیش از حد,
 Welcome email sent,ایمیل ارسال,
-Welcome to ERPNext,به ERPNext خوش آمدید,
+Welcome to ViyagaERP,به ViyagaERP خوش آمدید,
 What do you need help with?,به چه نیاز دارید کمک کنیم؟,
 What does it do?,چه کاری انجام میدهد؟,
 Where manufacturing operations are carried.,که در آن عملیات ساخت در حال انجام شده است.,
@@ -3337,8 +3337,8 @@ Compare List function takes on list arguments,تابع مقایسه لیست آ�
 Complete,تکمیل,
 Completed,تکمیل شده,
 Completed Quantity,مقدار کامل شد,
-Connect your Exotel Account to ERPNext and track call logs,حساب Exotel خود را به ERPNext وصل کنید و گزارش های تماس را پیگیری کنید,
-Connect your bank accounts to ERPNext,حساب های بانکی خود را به ERPNext وصل کنید,
+Connect your Exotel Account to ViyagaERP and track call logs,حساب Exotel خود را به ViyagaERP وصل کنید و گزارش های تماس را پیگیری کنید,
+Connect your bank accounts to ViyagaERP,حساب های بانکی خود را به ViyagaERP وصل کنید,
 Contact Seller,تماس با فروشنده,
 Continue,ادامه,
 Cost Center: {0} does not exist,مرکز هزینه: {0} وجود ندارد,
@@ -3715,7 +3715,7 @@ The selected payment entry should be linked with a creditor bank transaction,و�
 The selected payment entry should be linked with a debtor bank transaction,ورودی پرداخت انتخابی باید با معامله بانکی بدهکار مرتبط باشد,
 The total allocated amount ({0}) is greated than the paid amount ({1}).,کل مبلغ اختصاص یافته (0 {}) از مبلغ پرداخت شده (1 {{) پس انداز می شود.,
 This Service Level Agreement is specific to Customer {0},این توافق نامه سطح سرویس مختص {0 Custom مشتری است,
-This action will unlink this account from any external service integrating ERPNext with your bank accounts. It cannot be undone. Are you certain ?,این عملکرد این حساب را از هر سرویس خارجی که ERPNext را با حساب های بانکی شما ادغام می کند ، قطع می کند. قابل برگشت نیست. یقین دارید؟,
+This action will unlink this account from any external service integrating ViyagaERP with your bank accounts. It cannot be undone. Are you certain ?,این عملکرد این حساب را از هر سرویس خارجی که ViyagaERP را با حساب های بانکی شما ادغام می کند ، قطع می کند. قابل برگشت نیست. یقین دارید؟,
 This bank account is already synchronized,این حساب بانکی در حال حاضر هماهنگ شده است,
 This bank transaction is already fully reconciled,این تراکنش بانکی قبلاً کاملاً آشتی داده شده است,
 This page keeps track of items you want to buy from sellers.,این صفحه مواردی را که می خواهید از فروشندگان خریداری کنید ، ردیابی می کند.,
@@ -5548,7 +5548,7 @@ YES,آره,
 Student Siblings,خواهر و برادر دانشجو,
 Topic Content,محتوای موضوعی,
 Amazon MWS Settings,آمازون MWS تنظیمات,
-ERPNext Integrations,ادغام ERPNext,
+ERPNext Integrations,ادغام ViyagaERP,
 Enable Amazon,آمازون را فعال کنید,
 MWS Credentials,مجوز MWS,
 Seller ID,شناسه فروشنده,
@@ -5626,7 +5626,7 @@ Default Customer,مشتری پیش فرض,
 Customer Group will set to selected group while syncing customers from Shopify,مشتری گروه را به گروه انتخاب شده در حالی که همگام سازی مشتریان از Shopify تنظیم شده است,
 For Company,برای شرکت,
 Cash Account will used for Sales Invoice creation,حساب نقدی برای ایجاد صورتحساب فروش استفاده می شود,
-Update Price from Shopify To ERPNext Price List,به روز رسانی قیمت از Shopify به لیست قیمت ERPNext,
+Update Price from Shopify To ViyagaERP Price List,به روز رسانی قیمت از Shopify به لیست قیمت ViyagaERP,
 Default Warehouse to to create Sales Order and Delivery Note,پیش فرض انبار برای ایجاد سفارش سفارش و تحویل توجه داشته باشید,
 Sales Order Series,سفارش سری فروش,
 Import Delivery Notes from Shopify on Shipment,واردات تحویل یادداشت از Shopify در حمل و نقل,
@@ -5635,7 +5635,7 @@ Import Sales Invoice from Shopify if Payment is marked,واردات فروش ص�
 Sales Invoice Series,سری فاکتور فروش,
 Shopify Tax Account,حساب حساب مالیاتی Shopify,
 Shopify Tax/Shipping Title,Shopify عنوان مالیات / حمل و نقل,
-ERPNext Account,حساب ERPNext,
+ERPNext Account,حساب ViyagaERP,
 Shopify Webhook Detail,Shopify جزئیات Webhook,
 Webhook ID,هویت Webhook,
 Tally Migration,مهاجرت Tally,
@@ -5651,8 +5651,8 @@ Tally Company,شرکت Tally,
 Company Name as per Imported Tally Data,نام شرکت طبق اطلاعات وارد شده Tally,
 Default UOM,UOM پیش فرض,
 UOM in case unspecified in imported data,UOM در صورت مشخص نبودن اطلاعات وارد شده,
-ERPNext Company,شرکت ERPNext,
-Your Company set in ERPNext,شرکت شما در ERP تنظیم شده است,
+ERPNext Company,شرکت ViyagaERP,
+Your Company set in ViyagaERP,شرکت شما در ERP تنظیم شده است,
 Processed Files,پرونده های پردازش شده,
 Parties,مهمانی ها,
 UOMs,UOMs,
@@ -6018,7 +6018,7 @@ Employment Type,نوع استخدام,
 Emergency Contact,تماس اضطراری,
 Emergency Contact Name,نام تماس اضطراری,
 Emergency Phone,تلفن اضطراری,
-ERPNext User,کاربر ERPNext,
+ERPNext User,کاربر ViyagaERP,
 "System User (login) ID. If set, it will become default for all HR forms.",سیستم کاربر (ورود به سایت) ID. اگر تعیین شود، آن را تبدیل به طور پیش فرض برای همه اشکال HR.,
 Create User Permission,ایجاد مجوز کاربر,
 This will restrict user access to other employee records,این دسترسی کاربر به سوابق کارمند دیگر محدود می شود,
@@ -6089,7 +6089,7 @@ Employee External Work History,کارمند خارجی سابقه کار,
 Total Experience,تجربه ها,
 Default Leave Policy,پیش فرض خط مشی را ترک کنید,
 Employee Group Table,جدول گروه کارمندان,
-ERPNext User ID,شناسه کاربر ERPNext,
+ERPNext User ID,شناسه کاربر ViyagaERP,
 Employee Internal Work History,کارمند داخلی سابقه کار,
 Activities,فعالیت ها,
 Employee Onboarding Activity,فعالیت کارکنان کارکنان,
@@ -7780,8 +7780,8 @@ Depreciation Posting Date,تاریخ ارسال استهلاک,
 "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a  ",به طور پیش فرض ، نام تأمین کننده بر اساس نام تأمین کننده وارد شده تنظیم می شود. اگر می خواهید تامین کنندگان توسط a نامگذاری شوند,
  choose the 'Naming Series' option.,گزینه &quot;Naming Series&quot; را انتخاب کنید.,
 Configure the default Price List when creating a new Purchase transaction. Item prices will be fetched from this Price List.,هنگام ایجاد یک معامله خرید جدید ، لیست قیمت پیش فرض را پیکربندی کنید. قیمت اقلام از این لیست قیمت دریافت می شود.,
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master.",اگر این گزینه &quot;بله&quot; پیکربندی شده باشد ، ERPNext مانع ایجاد فاکتور خرید یا رسید بدون ایجاد اولین سفارش خرید می شود. با فعال کردن کادر تأیید &quot;اجازه ایجاد فاکتور خرید بدون سفارش خرید&quot; در اصلی تأمین کننده ، می توان این پیکربندی را برای یک منبع خاص لغو کرد.,
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master.",اگر این گزینه &quot;بله&quot; پیکربندی شده باشد ، ERPNext از ایجاد فاکتور خرید بدون ایجاد قبض خرید جلوگیری می کند. با فعال کردن کادر تأیید «اجازه ایجاد فاکتور خرید بدون رسید خرید» در اصلی تأمین کننده می توان این پیکربندی را برای یک منبع خاص لغو کرد.,
+"If this option is configured 'Yes', ViyagaERP will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master.",اگر این گزینه &quot;بله&quot; پیکربندی شده باشد ، ViyagaERP مانع ایجاد فاکتور خرید یا رسید بدون ایجاد اولین سفارش خرید می شود. با فعال کردن کادر تأیید &quot;اجازه ایجاد فاکتور خرید بدون سفارش خرید&quot; در اصلی تأمین کننده ، می توان این پیکربندی را برای یک منبع خاص لغو کرد.,
+"If this option is configured 'Yes', ViyagaERP will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master.",اگر این گزینه &quot;بله&quot; پیکربندی شده باشد ، ViyagaERP از ایجاد فاکتور خرید بدون ایجاد قبض خرید جلوگیری می کند. با فعال کردن کادر تأیید «اجازه ایجاد فاکتور خرید بدون رسید خرید» در اصلی تأمین کننده می توان این پیکربندی را برای یک منبع خاص لغو کرد.,
 Quantity & Stock,مقدار و سهام,
 Call Details,جزئیات تماس,
 Authorised By,مجاز توسط,
@@ -8001,8 +8001,8 @@ Feedback By,بازخورد توسط,
 Manufacturing Section,بخش ساخت,
 "By default, the Customer Name is set as per the Full Name entered. If you want Customers to be named by a ",به طور پیش فرض ، نام مشتری بر اساس نام کامل وارد شده تنظیم می شود. اگر می خواهید مشتریان توسط الف نامگذاری شوند,
 Configure the default Price List when creating a new Sales transaction. Item prices will be fetched from this Price List.,هنگام ایجاد یک معامله جدید فروش ، لیست قیمت پیش فرض را پیکربندی کنید. قیمت اقلام از این لیست قیمت دریافت می شود.,
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Sales Invoice or Delivery Note without creating a Sales Order first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Sales Order' checkbox in the Customer master.",اگر این گزینه &quot;بله&quot; پیکربندی شده باشد ، ERPNext از ایجاد فاکتور فروش یا یادداشت تحویل بدون ایجاد ابتدا سفارش فروش جلوگیری می کند. با فعال کردن کادر تأیید «ایجاد فاکتور فروش بدون سفارش فروش» ، این پیکربندی را می توان برای مشتری خاصی لغو کرد.,
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Sales Invoice without creating a Delivery Note first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Delivery Note' checkbox in the Customer master.",اگر این گزینه &quot;بله&quot; پیکربندی شده باشد ، ERPNext از ایجاد فاکتور فروش بدون ایجاد ابتدا یک یادداشت تحویل جلوگیری می کند. با فعال کردن کادر تأیید &quot;ایجاد فاکتور فروش بدون تحویل کالا&quot; می توانید این پیکربندی را برای مشتری خاصی لغو کنید.,
+"If this option is configured 'Yes', ViyagaERP will prevent you from creating a Sales Invoice or Delivery Note without creating a Sales Order first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Sales Order' checkbox in the Customer master.",اگر این گزینه &quot;بله&quot; پیکربندی شده باشد ، ViyagaERP از ایجاد فاکتور فروش یا یادداشت تحویل بدون ایجاد ابتدا سفارش فروش جلوگیری می کند. با فعال کردن کادر تأیید «ایجاد فاکتور فروش بدون سفارش فروش» ، این پیکربندی را می توان برای مشتری خاصی لغو کرد.,
+"If this option is configured 'Yes', ViyagaERP will prevent you from creating a Sales Invoice without creating a Delivery Note first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Delivery Note' checkbox in the Customer master.",اگر این گزینه &quot;بله&quot; پیکربندی شده باشد ، ViyagaERP از ایجاد فاکتور فروش بدون ایجاد ابتدا یک یادداشت تحویل جلوگیری می کند. با فعال کردن کادر تأیید &quot;ایجاد فاکتور فروش بدون تحویل کالا&quot; می توانید این پیکربندی را برای مشتری خاصی لغو کنید.,
 Default Warehouse for Sales Return,انبار پیش فرض برای بازگشت فروش,
 Default In Transit Warehouse,به طور پیش فرض در انبار حمل و نقل,
 Enable Perpetual Inventory For Non Stock Items,موجودی دائمی را برای موارد غیر سهام فعال کنید,
@@ -9679,7 +9679,7 @@ If enabled then system won't override the picked qty / batches / serial numbers.
 "If this checkbox is enabled, then the system won’t run the MRP for the available sub-assembly items.",اگر این چک باکس فعال باشد، سیستم MRP را برای آیتم‌های زیر مونتاژ موجود اجرا نمی کند.,
 If this is undesirable please cancel the corresponding Payment Entry.,اگر این امر نامطلوب است، لطفاً ثبت پرداخت مربوطه را لغو کنید.,
 "If yes, then this warehouse will be used to store rejected materials",اگر بله، پس از این انبار برای نگهداری مواد رد شده استفاده می شود,
-"If you are maintaining stock of this Item in your Inventory, ERPNext will make a stock ledger entry for each transaction of this item.",اگر موجودی این کالا را در موجودی خود نگهداری می کنید، ERPNext برای هر تراکنش این کالا یک ثبت در دفتر کل موجودی ایجاد می کند.,
+"If you are maintaining stock of this Item in your Inventory, ViyagaERP will make a stock ledger entry for each transaction of this item.",اگر موجودی این کالا را در موجودی خود نگهداری می کنید، ViyagaERP برای هر تراکنش این کالا یک ثبت در دفتر کل موجودی ایجاد می کند.,
 "If you need to reconcile particular transactions against each other, then please select accordingly. If not, all the transactions will be allocated in FIFO order.",اگر نیاز به تطبیق معاملات خاصی با یکدیگر دارید، لطفاً مطابق آن را انتخاب کنید. در غیر این صورت، تمام تراکنش ها به ترتیب FIFO تخصیص می یابد.,
 "If you still want to proceed, please disable 'Skip Available Sub Assembly Items' checkbox.",اگر همچنان می‌خواهید ادامه دهید، لطفاً کادر انتخاب «صرف نظر از آیتم‌های زیر مونتاژ موجود» را غیرفعال کنید.,
 "If you still want to proceed, please enable {0}.",اگر همچنان می‌خواهید ادامه دهید، لطفاً {0} را فعال کنید.,
@@ -11148,7 +11148,7 @@ Voucher Subtype,زیرنوع کوپن,
 Voucher {0} is over-allocated by {1},کوپن {0} توسط {1} بیش از حد تخصیص داده شده است,
 Voucher {0} value is broken: {1},ارزش کوپن {0} خراب است: {1},
 Voucher-wise Balance,تراز مبتنی بر کوپن,
-"WARNING: Exotel app has been separated from ERPNext, please install the app to continue using Exotel integration.",هشدار: برنامه Exotel از ERPNext جدا شده است، لطفاً برای ادامه استفاده از Exotel یکپارچه سازی، برنامه را نصب کنید.,
+"WARNING: Exotel app has been separated from ViyagaERP, please install the app to continue using Exotel integration.",هشدار: برنامه Exotel از ViyagaERP جدا شده است، لطفاً برای ادامه استفاده از Exotel یکپارچه سازی، برنامه را نصب کنید.,
 WIP Composite Asset,دارایی ترکیبی «کار در حال انجام»,
 Waiting for payment...,در انتظار پرداخت...,
 Warehouse Capacity for Item '{0}' must be greater than the existing stock level of {1} {2}.,"ظرفیت انبار برای آیتم ""{0}"" باید بیشتر از سطح موجودی موجود در {1} {2} باشد.",

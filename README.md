@@ -31,7 +31,7 @@ ERPNext as a monolith includes the following areas for managing businesses:
 1. [Quality Management](https://viyaga.com/docs/user/manual/en/quality-management)
 1. [Manufacturing](https://viyaga.com/open-source-manufacturing-erp-software)
 1. [Website Management](https://viyaga.com/open-source-website-builder-software)
-1. [Customize ERPNext](https://viyaga.com/docs/user/manual/en/customize-erpnext)
+1. [Customize ViyagaERP](https://viyaga.com/docs/user/manual/en/customize-erpnext)
 1. [And More](https://viyaga.com/docs/user/manual/en/)
 
 ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
@@ -51,20 +51,20 @@ ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a 
 
 ### Containerized Installation
 
-Use docker to deploy ERPNext in production or for development of [Frappe](https://github.com/frappe/frappe) apps. See https://github.com/frappe/frappe_docker for more details.
+Use docker to deploy ViyagaERP in production or for development of [Frappe](https://github.com/frappe/frappe) apps. See https://github.com/frappe/frappe_docker for more details.
 
 ### Manual Install
 
 The Easy Way: our install script for bench will install all dependencies (e.g. MariaDB). See https://github.com/frappe/bench for more details.
 
-New passwords will be created for the ERPNext "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
+New passwords will be created for the ViyagaERP "Administrator" user, the MariaDB root user, and the frappe user (the script displays the passwords and saves them to ~/frappe_passwords.txt).
 
 
 ## Learning and community
 
-1. [Frappe School](https://school.viyaga.io) - Learn Frappe Framework and ERPNext from the various courses by the maintainers or from the community.
-2. [Official documentation](https://docs.viyaga.com/) - Extensive documentation for ERPNext.
-3. [Discussion Forum](https://discuss.viyaga.com/) - Engage with community of ERPNext users and service providers.
+1. [Frappe School](https://school.viyaga.io) - Learn Frappe Framework and ViyagaERP from the various courses by the maintainers or from the community.
+2. [Official documentation](https://docs.viyaga.com/) - Extensive documentation for ViyagaERP.
+3. [Discussion Forum](https://discuss.viyaga.com/) - Engage with community of ViyagaERP users and service providers.
 4. [Telegram Group](https://erpnext_public.t.me) - Get instant help from huge community of users.
 
 
@@ -80,9 +80,9 @@ New passwords will be created for the ERPNext "Administrator" user, the MariaDB 
 
 GNU/General Public License (see [license.txt](license.txt))
 
-The ERPNext code is licensed as GNU General Public License (v3) and the Documentation is licensed as Creative Commons (CC-BY-SA-3.0) and the copyright is owned by Frappe Technologies Pvt Ltd (Frappe) and Contributors.
+The ViyagaERP code is licensed as GNU General Public License (v3) and the Documentation is licensed as Creative Commons (CC-BY-SA-3.0) and the copyright is owned by Frappe Technologies Pvt Ltd (Frappe) and Contributors.
 
-By contributing to ERPNext, you agree that your contributions will be licensed under its GNU General Public License (v3).
+By contributing to ViyagaERP, you agree that your contributions will be licensed under its GNU General Public License (v3).
 
 ## Logo and Trademark Policy
 

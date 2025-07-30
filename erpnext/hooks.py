@@ -606,7 +606,7 @@ user_privacy_documents = [
 	},
 ]
 
-# ERPNext doctypes for Global Search
+# ViyagaERP doctypes for Global Search
 global_search_doctypes = {
 	"Default": [
 		{"doctype": "Customer", "index": 0},

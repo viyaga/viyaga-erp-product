@@ -541,8 +541,8 @@ Condition,Zustand,
 Configure,Konfigurieren,
 Configure {0},{0} konfigurieren,
 Confirmed orders from Customers.,Bestätigte Aufträge von Kunden,
-Connect Amazon with ERPNext,Verbinden Sie Amazon mit ERPNext,
-Connect Shopify with ERPNext,Verbinden Sie Shopify mit ERPNext,
+Connect Amazon with ViyagaERP,Verbinden Sie Amazon mit ViyagaERP,
+Connect Shopify with ViyagaERP,Verbinden Sie Shopify mit ViyagaERP,
 Connect to Quickbooks,Stellen Sie eine Verbindung zu Quickbooks her,
 Connected to QuickBooks,Verbunden mit QuickBooks,
 Connecting to QuickBooks,Verbinden mit QuickBooks,
@@ -1059,7 +1059,7 @@ Get from Patient Encounter,Von der Patientenbegegnung erhalten,
 Getting Started,Beginnen,
 GitHub Sync ID,GitHub-Synchronisierungs-ID,
 Global settings for all manufacturing processes.,Allgemeine Einstellungen für alle Fertigungsprozesse,
-Go to the Desktop and start using ERPNext,Gehen Sie zum Desktop und starten Sie ERPNext,
+Go to the Desktop and start using ViyagaERP,Gehen Sie zum Desktop und starten Sie ViyagaERP,
 GoCardless SEPA Mandate,GoCardless SEPA-Mandat,
 GoCardless payment gateway settings,GoCardless-Gateway-Einstellungen,
 Goal and Procedure,Ziel und Ablauf,
@@ -2107,7 +2107,7 @@ Raw Materials,Rohmaterial,
 Raw Materials cannot be blank.,Rohmaterial kann nicht leer sein,
 Re-open,Wiedereröffnen,
 Read blog,Blog lesen,
-Read the ERPNext Manual,Lesen Sie das ERPNext-Handbuch,
+Read the ViyagaERP Manual,Lesen Sie das ViyagaERP-Handbuch,
 Reading Uploaded File,Hochgeladene Datei lesen,
 Real Estate,Immobilien,
 Reason For Putting On Hold,Grund für das auf Eis legen,
@@ -2486,7 +2486,7 @@ Setup SMS gateway settings,Einstellungen für SMS-Gateway verwalten,
 Setup cheque dimensions for printing,Setup-Kontrollmaße für den Druck,
 Setup default values for POS Invoices,Standardwerte für POS-Rechnungen einrichten,
 Setup mode of POS (Online / Offline),Einrichtungsmodus des POS (Online / Offline),
-Setup your Institute in ERPNext,Richten Sie Ihr Institut in ERPNext ein,
+Setup your Institute in ViyagaERP,Richten Sie Ihr Institut in ViyagaERP ein,
 Share Balance,Anteilsbestand,
 Share Ledger,Verzeichnis der Anteilseigner,
 Share Management,Anteilsverwaltung,
@@ -2766,7 +2766,7 @@ This is a root item group and cannot be edited.,Dies ist eine Root-Artikelgruppe
 This is a root sales person and cannot be edited.,Dies ist ein Root-Vertriebsmitarbeiter und kann nicht bearbeitet werden.,
 This is a root supplier group and cannot be edited.,Dies ist eine Root-Lieferantengruppe und kann nicht bearbeitet werden.,
 This is a root territory and cannot be edited.,Dies ist ein Root-Gebiet und kann nicht bearbeitet werden.,
-This is an example website auto-generated from ERPNext,"Dies ist eine Beispiel-Webseite, von ERPNext automatisch generiert",
+This is an example website auto-generated from ViyagaERP,"Dies ist eine Beispiel-Webseite, von ViyagaERP automatisch generiert",
 This is based on logs against this Vehicle. See timeline below for details,Dies basiert auf Protokollen gegen dieses Fahrzeug. Siehe Zeitleiste unten für Details,
 This is based on stock movement. See {0} for details,Dies basiert auf Lagerbewegungen. Siehe {0} für Details,
 This is based on the Time Sheets created against this project,Dies wird auf der Grundlage der Zeitblätter gegen dieses Projekt erstellt,
@@ -2813,7 +2813,7 @@ To State,Zu Staat,
 To Warehouse,An Lager,
 To create a Payment Request reference document is required,Zur Erstellung eines Zahlungsauftrags ist ein Referenzdokument erforderlich,
 "To filter based on Party, select Party Type first",Bitte Partei-Typ wählen um nach Partei zu filtern,
-"To get the best out of ERPNext, we recommend that you take some time and watch these help videos.","Um ERPNext bestmöglich zu nutzen, empfehlen wir Ihnen, sich die Zeit zu nehmen diese Hilfevideos anzusehen.",
+"To get the best out of ViyagaERP, we recommend that you take some time and watch these help videos.","Um ViyagaERP bestmöglich zu nutzen, empfehlen wir Ihnen, sich die Zeit zu nehmen diese Hilfevideos anzusehen.",
 "To include tax in row {0} in Item rate, taxes in rows {1} must also be included","Um Steuern im Artikelpreis in Zeile {0} einzubeziehen, müssen Steuern in den Zeilen {1} ebenfalls einbezogen sein",
 To make Customer based incentive schemes.,Um Kunden basierte Anreizsysteme zu machen.,
 "To merge, following properties must be same for both items","Um zwei Produkte zusammenzuführen, müssen folgende Eigenschaften für beide Produkte gleich sein",
@@ -3031,7 +3031,7 @@ Week,Woche,
 Weekly,Wöchentlich,
 "Weight is mentioned,\nPlease mention ""Weight UOM"" too","Gewicht ist angegeben, bitte auch ""Gewichts-Maßeinheit"" angeben",
 Welcome email sent,Willkommens-E-Mail versenden,
-Welcome to ERPNext,Willkommen bei ERPNext,
+Welcome to ViyagaERP,Willkommen bei ViyagaERP,
 What do you need help with?,Wofür benötigen Sie Hilfe?,
 What does it do?,Unternehmenszweck,
 Where manufacturing operations are carried.,"Ort, an dem Arbeitsgänge der Fertigung ablaufen.",
@@ -3365,8 +3365,8 @@ Compare List function takes on list arguments,Die Funktion &quot;Liste vergleich
 Complete,Komplett,
 Completed,Abgeschlossen,
 Completed Quantity,Abgeschlossene Menge,
-Connect your Exotel Account to ERPNext and track call logs,Verbinden Sie Ihr Exotel-Konto mit ERPNext und verfolgen Sie Anruflisten,
-Connect your bank accounts to ERPNext,Verbinden Sie Ihre Bankkonten mit ERPNext,
+Connect your Exotel Account to ViyagaERP and track call logs,Verbinden Sie Ihr Exotel-Konto mit ViyagaERP und verfolgen Sie Anruflisten,
+Connect your bank accounts to ViyagaERP,Verbinden Sie Ihre Bankkonten mit ViyagaERP,
 Contact Seller,Verkäufer kontaktieren,
 Continue,Fortsetzen,
 Cost Center: {0} does not exist,Kostenstelle: {0} existiert nicht,
@@ -3749,7 +3749,7 @@ The selected payment entry should be linked with a creditor bank transaction,Der
 The selected payment entry should be linked with a debtor bank transaction,Der ausgewählte Zahlungseintrag sollte mit einer Debitorenbank-Transaktion verknüpft sein,
 The total allocated amount ({0}) is greated than the paid amount ({1}).,Der insgesamt zugewiesene Betrag ({0}) ist höher als der bezahlte Betrag ({1}).,
 This Service Level Agreement is specific to Customer {0},Diese Vereinbarung zum Servicelevel ist spezifisch für den Kunden {0}.,
-This action will unlink this account from any external service integrating ERPNext with your bank accounts. It cannot be undone. Are you certain ?,"Durch diese Aktion wird die Verknüpfung dieses Kontos mit einem externen Dienst, der ERPNext mit Ihren Bankkonten integriert, aufgehoben. Es kann nicht ungeschehen gemacht werden. Bist du sicher ?",
+This action will unlink this account from any external service integrating ViyagaERP with your bank accounts. It cannot be undone. Are you certain ?,"Durch diese Aktion wird die Verknüpfung dieses Kontos mit einem externen Dienst, der ViyagaERP mit Ihren Bankkonten integriert, aufgehoben. Es kann nicht ungeschehen gemacht werden. Bist du sicher ?",
 This bank account is already synchronized,Dieses Bankkonto ist bereits synchronisiert,
 This bank transaction is already fully reconciled,Diese Banküberweisung ist bereits vollständig abgeglichen,
 This page keeps track of items you want to buy from sellers.,"Auf dieser Seite werden Artikel nachverfolgt, die Sie von Verkäufern kaufen möchten.",
@@ -5680,7 +5680,7 @@ Default Customer,Standardkunde,
 Customer Group will set to selected group while syncing customers from Shopify,Die Kundengruppe wird bei der Synchronisierung von Kunden von Shopify auf die ausgewählte Gruppe festgelegt,
 For Company,Für Unternehmen,
 Cash Account will used for Sales Invoice creation,Cash Account wird für die Erstellung von Ausgangsrechnungen verwendet,
-Update Price from Shopify To ERPNext Price List,Preis von Shopify auf ERPNext Preisliste aktualisieren,
+Update Price from Shopify To ViyagaERP Price List,Preis von Shopify auf ViyagaERP Preisliste aktualisieren,
 Default Warehouse to to create Sales Order and Delivery Note,Standard Lager zum Erstellen von Auftrag und Lieferschein,
 Sales Order Series,Auftragsnummernkreis,
 Import Delivery Notes from Shopify on Shipment,Lieferscheine von Shopify bei Versand importieren,
@@ -5706,7 +5706,7 @@ Company Name as per Imported Tally Data,Firmenname gemäß Importierten Tally-Da
 Default UOM,Standard-UOM,
 UOM in case unspecified in imported data,"UOM für den Fall, dass in importierten Daten nicht angegeben",
 ERPNext Company,ERPNext Unternehmen,
-Your Company set in ERPNext,Ihr Unternehmen in ERPNext eingestellt,
+Your Company set in ViyagaERP,Ihr Unternehmen in ViyagaERP eingestellt,
 Processed Files,Verarbeitete Dateien,
 Parties,Parteien,
 UOMs,Maßeinheiten,
@@ -7832,8 +7832,8 @@ Depreciation Posting Date,Buchungsdatum der Abschreibung,
 "By default, the Supplier Name is set as per the Supplier Name entered. If you want Suppliers to be named by a  ","Standardmäßig wird der Lieferantenname gemäß dem eingegebenen Lieferantennamen festgelegt. Wenn Sie möchten, dass Lieferanten von a benannt werden",
  choose the 'Naming Series' option.,Wählen Sie die Option &quot;Naming Series&quot;.,
 Configure the default Price List when creating a new Purchase transaction. Item prices will be fetched from this Price List.,Konfigurieren Sie die Standardpreisliste beim Erstellen einer neuen Kauftransaktion. Artikelpreise werden aus dieser Preisliste abgerufen.,
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master.","Wenn diese Option auf 'Ja' gesetzt ist, validiert ERPNext, dass Sie eine Bestellung angelegt haben, bevor Sie eine Eingangsrechnung oder einen Eingangsbeleg erfassen können. Diese Konfiguration kann für einzelne Lieferanten überschrieben werden, indem Sie die Option 'Erstellung von Eingangsrechnungen ohne Bestellung zulassen' im Lieferantenstamm aktivieren.",
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master.","Wenn diese Option auf 'Ja' gesetzt ist, validiert ERPNext, dass Sie einen Eingangsbeleg angelegt haben, bevor Sie eine Eingangsrechnung erfassen können. Diese Konfiguration kann für einzelne Lieferanten überschrieben werden, indem Sie die Option 'Erstellung von Kaufrechnungen ohne Eingangsbeleg zulassen' im Lieferantenstamm aktivieren.",
+"If this option is configured 'Yes', ViyagaERP will prevent you from creating a Purchase Invoice or Receipt without creating a Purchase Order first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Order' checkbox in the Supplier master.","Wenn diese Option auf 'Ja' gesetzt ist, validiert ViyagaERP, dass Sie eine Bestellung angelegt haben, bevor Sie eine Eingangsrechnung oder einen Eingangsbeleg erfassen können. Diese Konfiguration kann für einzelne Lieferanten überschrieben werden, indem Sie die Option 'Erstellung von Eingangsrechnungen ohne Bestellung zulassen' im Lieferantenstamm aktivieren.",
+"If this option is configured 'Yes', ViyagaERP will prevent you from creating a Purchase Invoice without creating a Purchase Receipt first. This configuration can be overridden for a particular supplier by enabling the 'Allow Purchase Invoice Creation Without Purchase Receipt' checkbox in the Supplier master.","Wenn diese Option auf 'Ja' gesetzt ist, validiert ViyagaERP, dass Sie einen Eingangsbeleg angelegt haben, bevor Sie eine Eingangsrechnung erfassen können. Diese Konfiguration kann für einzelne Lieferanten überschrieben werden, indem Sie die Option 'Erstellung von Kaufrechnungen ohne Eingangsbeleg zulassen' im Lieferantenstamm aktivieren.",
 Quantity & Stock,Menge & Lager,
 Call Details,Anrufdetails,
 Authorised By,Authorisiert von,
@@ -8053,8 +8053,8 @@ Feedback By,Feedback von,
 Manufacturing Section,Fertigungsabteilung,
 "By default, the Customer Name is set as per the Full Name entered. If you want Customers to be named by a ","Standardmäßig wird der Kundenname gemäß dem eingegebenen vollständigen Namen festgelegt. Wenn Sie möchten, dass Kunden von a benannt werden",
 Configure the default Price List when creating a new Sales transaction. Item prices will be fetched from this Price List.,Konfigurieren Sie die Standardpreisliste beim Erstellen einer neuen Verkaufstransaktion. Artikelpreise werden aus dieser Preisliste abgerufen.,
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Sales Invoice or Delivery Note without creating a Sales Order first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Sales Order' checkbox in the Customer master.","Wenn diese Option auf &quot;Ja&quot; konfiguriert ist, verhindert ERPNext, dass Sie eine Ausgangsrechnung oder einen Lieferschein erstellen, ohne zuvor einen Auftrag zu erstellen. Diese Konfiguration kann für einen bestimmten Kunden überschrieben werden, indem das Kontrollkästchen &quot;Erstellung von Ausgangsrechnung ohne Auftrag zulassen&quot; im Kundenstamm aktiviert wird.",
-"If this option is configured 'Yes', ERPNext will prevent you from creating a Sales Invoice without creating a Delivery Note first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Delivery Note' checkbox in the Customer master.","Wenn diese Option auf &quot;Ja&quot; konfiguriert ist, verhindert ERPNext, dass Sie eine Ausgangsrechnung erstellen, ohne zuvor einen Lieferschein zu erstellen. Diese Konfiguration kann für einen bestimmten Kunden überschrieben werden, indem das Kontrollkästchen &quot;Erstellung von Ausgangsrechnungen ohne Lieferschein zulassen&quot; im Kundenstamm aktiviert wird.",
+"If this option is configured 'Yes', ViyagaERP will prevent you from creating a Sales Invoice or Delivery Note without creating a Sales Order first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Sales Order' checkbox in the Customer master.","Wenn diese Option auf &quot;Ja&quot; konfiguriert ist, verhindert ViyagaERP, dass Sie eine Ausgangsrechnung oder einen Lieferschein erstellen, ohne zuvor einen Auftrag zu erstellen. Diese Konfiguration kann für einen bestimmten Kunden überschrieben werden, indem das Kontrollkästchen &quot;Erstellung von Ausgangsrechnung ohne Auftrag zulassen&quot; im Kundenstamm aktiviert wird.",
+"If this option is configured 'Yes', ViyagaERP will prevent you from creating a Sales Invoice without creating a Delivery Note first. This configuration can be overridden for a particular Customer by enabling the 'Allow Sales Invoice Creation Without Delivery Note' checkbox in the Customer master.","Wenn diese Option auf &quot;Ja&quot; konfiguriert ist, verhindert ViyagaERP, dass Sie eine Ausgangsrechnung erstellen, ohne zuvor einen Lieferschein zu erstellen. Diese Konfiguration kann für einen bestimmten Kunden überschrieben werden, indem das Kontrollkästchen &quot;Erstellung von Ausgangsrechnungen ohne Lieferschein zulassen&quot; im Kundenstamm aktiviert wird.",
 Default Warehouse for Sales Return,Standardlager für Retouren,
 Default In Transit Warehouse,Standard im Transit Warehouse,
 Enable Perpetual Inventory For Non Stock Items,Aktivieren Sie das ewige Inventar für nicht vorrätige Artikel,
@@ -8874,14 +8874,14 @@ Lost Value %,Verlorener Wert %,
  Summary, Zusammenfassung,
 "# Account Settings
 
-In ERPNext, Accounting features are configurable as per your business needs. Accounts Settings is the place to define some of your accounting preferences like:
+In ViyagaERP, Accounting features are configurable as per your business needs. Accounts Settings is the place to define some of your accounting preferences like:
 
  - Credit Limit and over billing settings
  - Taxation preferences
  - Deferred accounting preferences
 ","# Buchhaltungseinstellungen
 
-In ERPNext können Sie die Buchhaltungsfunktionen entsprechend Ihren geschäftlichen Anforderungen konfigurieren. In den Buchhaltungseinstellungen können Sie unter anderem Folgendes konfigurieren:
+In ViyagaERP können Sie die Buchhaltungsfunktionen entsprechend Ihren geschäftlichen Anforderungen konfigurieren. In den Buchhaltungseinstellungen können Sie unter anderem Folgendes konfigurieren:
 
  - Einstellungen für Kreditlimit und Überfakturierung
  - Einstellungen für die Besteuerung
@@ -8889,7 +8889,7 @@ In ERPNext können Sie die Buchhaltungsfunktionen entsprechend Ihren geschäftli
 ",
 "# Account Settings
 
-This is a crucial piece of configuration. There are various account settings in ERPNext to restrict and configure actions in the Accounting module.
+This is a crucial piece of configuration. There are various account settings in ViyagaERP to restrict and configure actions in the Accounting module.
 
 The following settings are avaialble for you to configure
 
@@ -8912,9 +8912,9 @@ Die folgenden Einstellungen sind verfügbar für Sie
 Es gibt noch viel mehr, du kannst es alles in diesem Schritt überprüfen",
 "# Add an Existing Asset
 
-If you are just starting with ERPNext, you will need to enter Assets you already possess. You can add them as existing fixed assets in ERPNext. Please note that you will have to make a Journal Entry separately updating the opening balance in the fixed asset account.","# Vorhandene Vermögensgegenstände hinzufügen
+If you are just starting with ViyagaERP, you will need to enter Assets you already possess. You can add them as existing fixed assets in ViyagaERP. Please note that you will have to make a Journal Entry separately updating the opening balance in the fixed asset account.","# Vorhandene Vermögensgegenstände hinzufügen
 
-Wenn Sie gerade erst mit ERPNext beginnen, müssen Sie die Vermögensgegenstände, die Sie bereits besitzen, eingeben. Sie können sie als bestehende Vermögensgegenstände in ERPNext hinzufügen. Bitte beachten Sie, dass Sie einen separaten Buchungssatz vornehmen müssen, um den Eröffnungssaldo des Anlagenkontos zu aktualisieren.",
+Wenn Sie gerade erst mit ViyagaERP beginnen, müssen Sie die Vermögensgegenstände, die Sie bereits besitzen, eingeben. Sie können sie als bestehende Vermögensgegenstände in ViyagaERP hinzufügen. Bitte beachten Sie, dass Sie einen separaten Buchungssatz vornehmen müssen, um den Eröffnungssaldo des Anlagenkontos zu aktualisieren.",
 "# All about sales invoice
 
 A Sales Invoice is a bill that you send to your Customers against which the Customer makes the payment. Sales Invoice is an accounting transaction. On submission of Sales Invoice, the system updates the receivable and books income against a Customer Account.","# Alles über Verkaufsrechnung
@@ -8978,17 +8978,17 @@ ERPNext sets up a simple chart of accounts for each Company you create, but you 
 
 ERPNext erstellt ein einfaches Kontendiagramm für jede von Ihnen erstellte Firma, aber Sie können es entsprechend den geschäftlichen und rechtlichen Anforderungen ändern.",
 "# Check Stock Reports
-Based on the various stock transactions, you can get a host of one-click Stock Reports in ERPNext like Stock Ledger, Stock Balance, Projected Quantity, and Ageing analysis.","# Bestandsberichte prüfen
-Basierend auf den verschiedenen Bestandstransaktionen können Sie in ERPNext mit einem Klick eine Vielzahl von Bestandsberichten abrufen, z. B. Bestandsbuch, Bestandsbilanz, prognostizierte Menge und Alterungsanalyse.",
+Based on the various stock transactions, you can get a host of one-click Stock Reports in ViyagaERP like Stock Ledger, Stock Balance, Projected Quantity, and Ageing analysis.","# Bestandsberichte prüfen
+Basierend auf den verschiedenen Bestandstransaktionen können Sie in ViyagaERP mit einem Klick eine Vielzahl von Bestandsberichten abrufen, z. B. Bestandsbuch, Bestandsbilanz, prognostizierte Menge und Alterungsanalyse.",
 "# Cost Centers for Budgeting and Analysis
 
 While your Books of Accounts are framed to fulfill statutory requirements, you can set up Cost Center and Accounting Dimensions to address your companies reporting and budgeting requirements.
 
-Click here to learn more about how  <b>[Cost Center](https://docs.viyaga.com/docs/v13/user/manual/en/accounts/cost-center)</b> and <b> [Dimensions](https://docs.viyaga.com/docs/v13/user/manual/en/accounts/accounting-dimensions)</b> allow you to get advanced financial analytics reports from ERPNext.","# Kostenstellen für Budgetierung und Analyse
+Click here to learn more about how  <b>[Cost Center](https://docs.viyaga.com/docs/v13/user/manual/en/accounts/cost-center)</b> and <b> [Dimensions](https://docs.viyaga.com/docs/v13/user/manual/en/accounts/accounting-dimensions)</b> allow you to get advanced financial analytics reports from ViyagaERP.","# Kostenstellen für Budgetierung und Analyse
 
 Während Ihre Geschäftsbücher so gestaltet sind, dass sie die gesetzlichen Anforderungen erfüllen, können Sie Kostenstellen und Buchhaltungsdimensionen einrichten, um die Berichts- und Budgetierungsanforderungen Ihres Unternehmens zu erfüllen.
 
-Klicken Sie hier, um mehr darüber zu erfahren, wie Sie mit  <b>[Kostenstellen](https://docs.viyaga.com/docs/v13/user/manual/en/accounts/cost-center)</b> und <b> [Dimensionen](https://docs.viyaga.com/docs/v13/user/manual/en/accounts/accounting-dimensions)</b> fortschrittliche Finanzanalyseberichte von ERPNext erhalten können.",
+Klicken Sie hier, um mehr darüber zu erfahren, wie Sie mit  <b>[Kostenstellen](https://docs.viyaga.com/docs/v13/user/manual/en/accounts/cost-center)</b> und <b> [Dimensionen](https://docs.viyaga.com/docs/v13/user/manual/en/accounts/accounting-dimensions)</b> fortschrittliche Finanzanalyseberichte von ViyagaERP erhalten können.",
 "# Create Items for Bill of Materials
 
 One of the prerequisites of a BOM is the creation of raw materials, sub-assembly, and finished items. Once these items are created, you will be able to proceed to the Bill of Materials master, which is composed of items and routing.
@@ -9034,10 +9034,10 @@ Der Kundenstamm ist das Herzstück Ihrer Verkaufstransaktionen. Kunden werden in
 ",
 "# Create a Letter Head
 
-A Letter Head contains your organization's name, logo, address, etc which appears at the header and footer portion in documents. You can learn more about Setting up Letter Head in ERPNext here.
+A Letter Head contains your organization's name, logo, address, etc which appears at the header and footer portion in documents. You can learn more about Setting up Letter Head in ViyagaERP here.
 ","# Erstellen Sie einen Briefkopf
 
-Ein Briefkopf enthält den Namen, das Logo, die Adresse usw. Ihrer Organisation, die in der Kopf- und Fußzeile von Dokumenten angezeigt werden. Weitere Informationen zum Einrichten des Briefkopfes in ERPNext finden Sie hier.
+Ein Briefkopf enthält den Namen, das Logo, die Adresse usw. Ihrer Organisation, die in der Kopf- und Fußzeile von Dokumenten angezeigt werden. Weitere Informationen zum Einrichten des Briefkopfes in ViyagaERP finden Sie hier.
 ",
 "# Create a Quotation
 
@@ -9087,12 +9087,12 @@ Ein Arbeitsauftrag oder ein Job wird von der Produktionsleitung an die Fertigung
 
 Item is a product or a service offered by your company, or something you buy as a part of your supplies or raw materials.
 
-Items are integral to everything you do in ERPNext - from billing, purchasing to managing inventory. Everything you buy or sell, whether it is a physical product or a service is an Item. Items can be stock, non-stock, variants, serialized, batched, assets, etc.
+Items are integral to everything you do in ViyagaERP - from billing, purchasing to managing inventory. Everything you buy or sell, whether it is a physical product or a service is an Item. Items can be stock, non-stock, variants, serialized, batched, assets, etc.
 ","# Artikel erstellen
 
 Ein Artikel ist ein Produkt oder eine Dienstleistung, die von Ihrem Unternehmen angeboten wird, oder etwas, das Sie als Teil Ihrer Vorräte oder Rohmaterialien kaufen.
 
-Artikel sind ein integraler Bestandteil aller Vorgänge in ERPNext - von der Rechnungsstellung über den Einkauf bis hin zur Bestandsverwaltung. Alles, was Sie kaufen oder verkaufen, egal ob es sich um ein physisches Produkt oder eine Dienstleistung handelt, ist ein Artikel. Artikel können mit Lagerhaltung, ohne Lagerhaltung, in Varianten, in Seriennummern, in Chargen, als Anlagegüter usw. sein.
+Artikel sind ein integraler Bestandteil aller Vorgänge in ViyagaERP - von der Rechnungsstellung über den Einkauf bis hin zur Bestandsverwaltung. Alles, was Sie kaufen oder verkaufen, egal ob es sich um ein physisches Produkt oder eine Dienstleistung handelt, ist ein Artikel. Artikel können mit Lagerhaltung, ohne Lagerhaltung, in Varianten, in Seriennummern, in Chargen, als Anlagegüter usw. sein.
 ",
 "# Create an Item
 The Stock module deals with the movement of items.
@@ -9103,11 +9103,11 @@ Das Modul Lagerverwaltung befasst sich mit der Bewegung von Artikeln.
 In diesem Schritt werden wir einen [**Artikel**] (https://docs.viyaga.com/docs/user/manual/en/stock/item) erstellen.",
 "# Create first Purchase Order
 
-Purchase Order is at the heart of your buying transactions. In ERPNext, Purchase Order can can be created against a Purchase Material Request (indent) and Supplier Quotation as well.  Purchase Orders is also linked to Purchase Receipt and Purchase Invoices, allowing you to keep a birds-eye view on your purchase deals.
+Purchase Order is at the heart of your buying transactions. In ViyagaERP, Purchase Order can can be created against a Purchase Material Request (indent) and Supplier Quotation as well.  Purchase Orders is also linked to Purchase Receipt and Purchase Invoices, allowing you to keep a birds-eye view on your purchase deals.
 
 ","# Erste Bestellung erstellen
 
-Die Bestellung ist das Herzstück Ihrer Einkaufstransaktionen. In ERPNext kann eine Bestellung auch aus einer Materialanforderung und einem Lieferantenangebot erstellt werden. Bestellungen sind auch mit Eingangsbelegen und Eingangsrechnungen verknüpft, so dass Sie Ihre Einkaufsgeschäfte aus der Vogelperspektive verfolgen können.
+Die Bestellung ist das Herzstück Ihrer Einkaufstransaktionen. In ViyagaERP kann eine Bestellung auch aus einer Materialanforderung und einem Lieferantenangebot erstellt werden. Bestellungen sind auch mit Eingangsbelegen und Eingangsrechnungen verknüpft, so dass Sie Ihre Einkaufsgeschäfte aus der Vogelperspektive verfolgen können.
 
 ",
 "# Create your first Purchase Invoice
@@ -9121,11 +9121,11 @@ Eine Eingangsrechnung ist eine Rechnung, die Sie von einem Lieferanten für eine
 Eingangsrechnungen können auch mit einer Bestellung oder einem Eingangsbeleg erstellt werden.",
 "# Financial Statements
 
-In ERPNext, you can get crucial financial reports like [Balance Sheet] and [Profit and Loss] statements with a click of a button. You can run in the report for a different period and plot analytics charts premised on statement data. For more reports, check sections like Financial Statements, General Ledger, and Profitability reports.
+In ViyagaERP, you can get crucial financial reports like [Balance Sheet] and [Profit and Loss] statements with a click of a button. You can run in the report for a different period and plot analytics charts premised on statement data. For more reports, check sections like Financial Statements, General Ledger, and Profitability reports.
 
 <b>[Check Accounting reports](https://docs.viyaga.com/docs/v13/user/manual/en/accounts/accounting-reports)</b>","# Finanzberichte
 
-In ERPNext können Sie mit einem Klick wichtige Finanzberichte wie [Bilanz] und [Gewinn- und Verlustrechnungen] abrufen. Sie können den Bericht für einen beliebigen Zeitraum ausführen und Diagramme basierend auf den Daten erstellen. Weitere Berichte finden Sie in den Abschnitten „Finanzberichte“, „Hauptbuch“ und „Rentabilitätsberichte“.
+In ViyagaERP können Sie mit einem Klick wichtige Finanzberichte wie [Bilanz] und [Gewinn- und Verlustrechnungen] abrufen. Sie können den Bericht für einen beliebigen Zeitraum ausführen und Diagramme basierend auf den Daten erstellen. Weitere Berichte finden Sie in den Abschnitten „Finanzberichte“, „Hauptbuch“ und „Rentabilitätsberichte“.
 
 <b>[Buchhaltungsberichte prüfen](https://docs.viyaga.com/docs/v13/user/manual/en/accounts/accounting-reports)</b>",
 "# Fixed Asset Accounts
@@ -9150,26 +9150,26 @@ Der Produktionsplan hilft bei der Produktions- und Materialplanung für die Arti
 ",
 "# Import Data from Spreadsheet
 
-In ERPNext, you can easily migrate your historical data using spreadsheets. You can use it for migrating not just masters (like Customer, Supplier, Items), but also for transactions like (outstanding invoices, opening stock and accounting entries, etc).","# Daten aus Tabellen importieren
+In ViyagaERP, you can easily migrate your historical data using spreadsheets. You can use it for migrating not just masters (like Customer, Supplier, Items), but also for transactions like (outstanding invoices, opening stock and accounting entries, etc).","# Daten aus Tabellen importieren
 
-In ERPNext können Sie Ihre historischen Daten ganz einfach mithilfe von Tabellen migrieren. Sie können damit nicht nur Stammdaten (wie Kunden, Lieferanten, Artikel) migrieren, sondern auch Transaktionen (ausstehende Rechnungen, Anfangsbestand und Buchungen, etc.).",
+In ViyagaERP können Sie Ihre historischen Daten ganz einfach mithilfe von Tabellen migrieren. Sie können damit nicht nur Stammdaten (wie Kunden, Lieferanten, Artikel) migrieren, sondern auch Transaktionen (ausstehende Rechnungen, Anfangsbestand und Buchungen, etc.).",
 # In Stock,# Auf Lager,
 "# Introduction to Stock Entry
 This video will give a quick introduction to [**Stock Entry**](https://docs.viyaga.com/docs/user/manual/en/stock/stock-entry).","# Einführung in die Lagerbewegung
 Dieses Video gibt eine kurze Einführung in die [**Lagerbewegung**] (https://docs.viyaga.com/docs/user/manual/en/stock/stock-entry).",
 "# Manage Stock Movements
-Stock entry allows you to register the movement of stock for various purposes like transfer, received, issues, repacked, etc. To address issues related to theft and pilferages,  you can always ensure that the movement of goods happens against a document reference Stock Entry in ERPNext.
+Stock entry allows you to register the movement of stock for various purposes like transfer, received, issues, repacked, etc. To address issues related to theft and pilferages,  you can always ensure that the movement of goods happens against a document reference Stock Entry in ViyagaERP.
 
 Let’s get a quick walk-through on the various scenarios covered in Stock Entry by watching [*this video*](https://www.youtube.com/watch?v=Njt107hlY3I).","# Bestandsbewegungen verwalten
-Mit der Lagerbewegung können Sie die Bestandsbewegungen für verschiedene Zwecke wie Transfer, Empfang, Ausgabe, Umpacken usw. registrieren. Um Probleme im Zusammenhang mit Diebstahl und Unterschlagung zu lösen, können Sie immer sicherstellen, dass die Warenbewegung gegen eine Dokumentenreferenz in ERPNext, der sogenannten Lagerbewegung, erfolgt.
+Mit der Lagerbewegung können Sie die Bestandsbewegungen für verschiedene Zwecke wie Transfer, Empfang, Ausgabe, Umpacken usw. registrieren. Um Probleme im Zusammenhang mit Diebstahl und Unterschlagung zu lösen, können Sie immer sicherstellen, dass die Warenbewegung gegen eine Dokumentenreferenz in ViyagaERP, der sogenannten Lagerbewegung, erfolgt.
 
 Schauen wir uns [*dieses Video*](https://www.youtube.com/watch?v=Njt107hlY3I) an, um einen kurzen Überblick über die verschiedenen Szenarien zu erhalten, die in Lagerbewegung
  behandelt werden.",
-"# Navigation in ERPNext
+"# Navigation in ViyagaERP
 
-Ease of navigating and browsing around the ERPNext is one of our core strengths. In the following video, you will learn how to reach a specific feature in ERPNext via module page or AwesomeBar.","# Navigation in ERPNext
+Ease of navigating and browsing around the ViyagaERP is one of our core strengths. In the following video, you will learn how to reach a specific feature in ViyagaERP via module page or AwesomeBar.","# Navigation in ViyagaERP
 
-Einfaches Navigieren und Browsen in ERPNext ist eine unserer Hauptstärken. Im folgenden Video erfahren Sie, wie Sie eine bestimmte Funktion in ERPNext über die Modulseite oder die AwesomeBar erreichen.",
+Einfaches Navigieren und Browsen in ViyagaERP ist eine unserer Hauptstärken. Im folgenden Video erfahren Sie, wie Sie eine bestimmte Funktion in ViyagaERP über die Modulseite oder die AwesomeBar erreichen.",
 "# Purchase an Asset
 
 Assets purchases process if done following the standard Purchase cycle. If capital work in progress is enabled in Asset Category, Asset will be created as soon as Purchase Receipt is created for it. You can quickly create a Purchase Receipt for Asset and see its impact on books of accounts.","# Kauf eines Vermögensgegenstandes
@@ -9178,14 +9178,14 @@ Der Kauf eines Vermögensgegenstandes wird nach dem Standard-Kaufzyklus abgewick
 # Req'd Items,# Ben. Artikel,
 "# Review Manufacturing Settings
 
-In ERPNext, the Manufacturing module’s features are configurable as per your business needs. Manufacturing Settings is the place where you can set your preferences for:
+In ViyagaERP, the Manufacturing module’s features are configurable as per your business needs. Manufacturing Settings is the place where you can set your preferences for:
 
 - Capacity planning for allocating jobs to workstations
 - Raw-material consumption based on BOM or actual
 - Default values and over-production allowance
 ","# Fertigungseinstellungen
 
-Im ERPNext sind die Funktionen des Fertigungsmoduls nach Ihren Geschäftsanforderungen konfigurierbar. Fertigungseinstellungen sind der Ort, an dem Sie Ihre Einstellungen festlegen können für:
+Im ViyagaERP sind die Funktionen des Fertigungsmoduls nach Ihren Geschäftsanforderungen konfigurierbar. Fertigungseinstellungen sind der Ort, an dem Sie Ihre Einstellungen festlegen können für:
 
 - Kapazitätsplanung für die Zuweisung von Jobs an Arbeitsplätze
 - Rohstoffverbrauch basierend auf Stücklisten oder effektiven Bedarf
@@ -9193,13 +9193,13 @@ Im ERPNext sind die Funktionen des Fertigungsmoduls nach Ihren Geschäftsanforde
 ",
 "# Review Stock Settings
 
-In ERPNext, the Stock module’s features are configurable as per your business needs. Stock Settings is the place where you can set your preferences for:
+In ViyagaERP, the Stock module’s features are configurable as per your business needs. Stock Settings is the place where you can set your preferences for:
 - Default values for Item and Pricing
 - Default valuation method for inventory valuation
 - Set preference for serialization and batching of item
 - Set tolerance for over-receipt and delivery of items","# Lagereinstellungen überprüfen
 
-In ERPNext können die Funktionen des Lagermoduls entsprechend Ihren Geschäftsanforderungen konfiguriert werden. In den Lagereinstellungen können Sie Ihre Präferenzen festlegen für:
+In ViyagaERP können die Funktionen des Lagermoduls entsprechend Ihren Geschäftsanforderungen konfiguriert werden. In den Lagereinstellungen können Sie Ihre Präferenzen festlegen für:
 – Standardwerte für Artikel und Preise
 – Standardbewertungsmethode für die Bestandsbewertung
 – Präferenzen für die Serialisierung und Stapelverarbeitung
@@ -9226,20 +9226,20 @@ Die Funktionen des CRM- und Verkaufsmoduls lassen sich entsprechend Ihren gesch�
 ",
 "# Set Up a Company
 
-A company is a legal entity for which you will set up your books of account and create accounting transactions. In ERPNext, you can create multiple companies, and establish relationships (group/subsidiary) among them.
+A company is a legal entity for which you will set up your books of account and create accounting transactions. In ViyagaERP, you can create multiple companies, and establish relationships (group/subsidiary) among them.
 
 Within the company master, you can capture various default accounts for that Company and set crucial settings related to the accounting methodology followed for a company.
 ","# Ein Unternehmen einrichten
 
-Ein Unternehmen ist eine juristische Person, für die Sie Ihre Geschäftsbücher einrichten und Buchhaltungstransaktionen erstellen werden. In ERPNext können Sie mehrere Unternehmen anlegen und Beziehungen (Konzern/Tochtergesellschaft) zwischen ihnen herstellen.
+Ein Unternehmen ist eine juristische Person, für die Sie Ihre Geschäftsbücher einrichten und Buchhaltungstransaktionen erstellen werden. In ViyagaERP können Sie mehrere Unternehmen anlegen und Beziehungen (Konzern/Tochtergesellschaft) zwischen ihnen herstellen.
 
 Im Unternehmensstamm können Sie verschiedene Standardkonten für das Unternehmen erfassen und wichtige Einstellungen zur Buchhaltungsmethodik für ein Unternehmen vornehmen.
 ",
 "# Setting up Taxes
 
-ERPNext lets you configure your taxes so that they are automatically applied in your buying and selling transactions. You can configure them globally or even on Items. ERPNext taxes are pre-configured for most regions.","# Steuern einrichten
+ERPNext lets you configure your taxes so that they are automatically applied in your buying and selling transactions. You can configure them globally or even on Items. ViyagaERP taxes are pre-configured for most regions.","# Steuern einrichten
 
-Mit ERPNext können Sie Ihre Steuern so konfigurieren, dass sie bei Ihren Kauf- und Verkaufstransaktionen automatisch angewendet werden. Sie können sie global oder für einzelne Artikel konfigurieren. ERPNext-Steuern sind für die meisten Regionen vorkonfiguriert.",
+Mit ViyagaERP können Sie Ihre Steuern so konfigurieren, dass sie bei Ihren Kauf- und Verkaufstransaktionen automatisch angewendet werden. Sie können sie global oder für einzelne Artikel konfigurieren. ViyagaERP-Steuern sind für die meisten Regionen vorkonfiguriert.",
 "# Setup Routing
 
 A Routing stores all Operations along with the description, hourly rate, operation time, batch size, etc. Click below to learn how the Routing template can be created, for quick selection in the BOM.","# Routing einrichten
@@ -9248,10 +9248,10 @@ Ein Routing speichert alle Vorgänge zusammen mit der Beschreibung, dem Stundens
 "# Setup a Warehouse
 The warehouse can be your location/godown/store where you maintain the item's inventory, and receive/deliver them to various parties.
 
-In ERPNext, you can maintain a Warehouse in the tree structure, so that location and sub-location of an item can be tracked. Also, you can link a Warehouse to a specific Accounting ledger, where the real-time stock value of that warehouse’s item will be reflected.","# Richten Sie ein Lager ein
+In ViyagaERP, you can maintain a Warehouse in the tree structure, so that location and sub-location of an item can be tracked. Also, you can link a Warehouse to a specific Accounting ledger, where the real-time stock value of that warehouse’s item will be reflected.","# Richten Sie ein Lager ein
 Das Lager kann Ihr Standort/Ihre Niederlassung/Ihr Geschäft sein, in dem Sie den Bestand der Artikel verwalten und diese an verschiedene Parteien empfangen/liefern.
 
-In ERPNext können Sie ein Lager in der Baumstruktur verwalten, sodass Standort und Unterstandort eines Artikels verfolgt werden können. Außerdem können Sie ein Lager mit einem bestimmten Buchhaltungskonto verknüpfen, in dem der Echtzeit-Bestandswert des Artikels dieses Lagers angezeigt wird.",
+In ViyagaERP können Sie ein Lager in der Baumstruktur verwalten, sodass Standort und Unterstandort eines Artikels verfolgt werden können. Außerdem können Sie ein Lager mit einem bestimmten Buchhaltungskonto verknüpfen, in dem der Echtzeit-Bestandswert des Artikels dieses Lagers angezeigt wird.",
 "# Track Material Request
 
 
@@ -9263,26 +9263,26 @@ Eine Materialanforderung ist ein Dokument, das den Bedarf an einer Reihe von Art
 
 ",
 "# Update Stock Opening Balance
-It’s an entry to update the stock balance of an item, in a warehouse, on a date and time you are going live on ERPNext.
+It’s an entry to update the stock balance of an item, in a warehouse, on a date and time you are going live on ViyagaERP.
 
 Once opening stocks are updated, you can create transactions like manufacturing and stock deliveries, where this opening stock will be consumed.","# Eröffnungsbestand aktualisieren
-Es handelt sich um einen Eintrag, mit dem Sie den Bestand eines Artikels in einem Lager an einem Datum und zu einer Uhrzeit aktualisieren, zu der Sie ihn in ERPNext in Betrieb nehmen.
+Es handelt sich um einen Eintrag, mit dem Sie den Bestand eines Artikels in einem Lager an einem Datum und zu einer Uhrzeit aktualisieren, zu der Sie ihn in ViyagaERP in Betrieb nehmen.
 
 Sobald der Anfangsbestand aktualisiert ist, können Sie Transaktionen wie Fertigung und Lagerlieferungen erstellen, bei denen dieser Anfangsbestand verbraucht wird.",
 "# Updating Opening Balances
 
-Once you close the financial statement in previous accounting software, you can update the same as opening in your ERPNext's Balance Sheet accounts. This will allow you to get complete financial statements from ERPNext in the coming years, and discontinue the parallel accounting system right away.","# Aktualisieren der Eröffnungssalden
+Once you close the financial statement in previous accounting software, you can update the same as opening in your ViyagaERP's Balance Sheet accounts. This will allow you to get complete financial statements from ViyagaERP in the coming years, and discontinue the parallel accounting system right away.","# Aktualisieren der Eröffnungssalden
 
-Sobald Sie den Jahresabschluss in der vorherigen Buchhaltungssoftware abgeschlossen haben, können Sie die Eröffnungssalden auch in den Bilanzkonten von ERPNext aktualisieren. Auf diese Weise erhalten Sie in den kommenden Jahren vollständige Jahresabschlüsse von ERPNext und können nun das parallele Buchhaltungssystem abschaffen.",
+Sobald Sie den Jahresabschluss in der vorherigen Buchhaltungssoftware abgeschlossen haben, können Sie die Eröffnungssalden auch in den Bilanzkonten von ViyagaERP aktualisieren. Auf diese Weise erhalten Sie in den kommenden Jahren vollständige Jahresabschlüsse von ViyagaERP und können nun das parallele Buchhaltungssystem abschaffen.",
 "# View Warehouse
-In ERPNext the term 'warehouse' can be thought of as a storage location.
+In ViyagaERP the term 'warehouse' can be thought of as a storage location.
 
-Warehouses are arranged in ERPNext in a tree like structure, where multiple sub-warehouses can be grouped under a single warehouse.
+Warehouses are arranged in ViyagaERP in a tree like structure, where multiple sub-warehouses can be grouped under a single warehouse.
 
 In this step we will view the [**Warehouse Tree**](https://docs.viyaga.com/docs/user/manual/en/stock/warehouse#21-tree-view) to view the [**Warehouses**](https://docs.viyaga.com/docs/user/manual/en/stock/warehouse) that are set by default.","# Lager anzeigen
-In ERPNext kann der Begriff 'Lager' als ein Lagerort verstanden werden.
+In ViyagaERP kann der Begriff 'Lager' als ein Lagerort verstanden werden.
 
-Lager werden in ERPNext in einer baumartigen Struktur angeordnet, wobei mehrere Unterlager unter einem einzigen Lager zusammengefasst werden können.
+Lager werden in ViyagaERP in einer baumartigen Struktur angeordnet, wobei mehrere Unterlager unter einem einzigen Lager zusammengefasst werden können.
 
 In diesem Schritt sehen wir uns den [**Lagerbaum**] (https://docs.viyaga.com/docs/user/manual/en/stock/warehouse#21-tree-view) an, um die [**Lager**] (https://docs.viyaga.com/docs/user/manual/en/stock/warehouse) zu sehen, die standardmäßig eingestellt sind.",
 "## Products and Services
@@ -9292,14 +9292,14 @@ ERPNext is optimized for itemized management of your sales and purchase.
 
 The **Item Master**  is where you can add all your sales items. If you are in services, you can create an Item for each service that you offer. If you run a manufacturing business, the same master is used for keeping a record of raw materials, sub-assemblies etc.
 
-Completing the Item Master is very essential for the successful implementation of ERPNext. We have a brief video introducing the item master for you, you can watch it in the next step.","## Produkte und Dienstleistungen
+Completing the Item Master is very essential for the successful implementation of ViyagaERP. We have a brief video introducing the item master for you, you can watch it in the next step.","## Produkte und Dienstleistungen
 
 Je nach Art Ihres Unternehmens verkaufen Sie Ihren Kunden Produkte oder Dienstleistungen oder beides. 
 ERPNext ist für die Verwaltung Ihrer Verkäufe und Einkäufe pro Artikel optimiert.
 
 Im Artikelstamm können Sie alle Ihre Verkaufsartikel erfassen. Wenn Sie ein Dienstleistungsunternehmen sind, können Sie für jede Dienstleistung, die Sie anbieten, einen Artikel anlegen. Wenn Sie ein produzierendes Unternehmen sind, wird derselbe Artikelstamm für die Erfassung von Rohstoffen, Halbfertigprodukten usw. verwendet.
 
-Vollständige Artikelstammdaten sind sehr wichtig für die erfolgreiche Implementierung von ERPNext. Wir haben für Sie ein kurzes Video zur Einführung in den Artikelstamm vorbereitet, das Sie sich im nächsten Schritt ansehen können.",
+Vollständige Artikelstammdaten sind sehr wichtig für die erfolgreiche Implementierung von ViyagaERP. Wir haben für Sie ein kurzes Video zur Einführung in den Artikelstamm vorbereitet, das Sie sich im nächsten Schritt ansehen können.",
 "## Who is a Customer?
 
 A customer, who is sometimes known as a client, buyer, or purchaser is the one who receives goods, services, products, or ideas, from a seller for a monetary consideration.
@@ -9315,11 +9315,11 @@ Jedem Kunden muss eine eindeutige ID zugewiesen werden. Der Name des Kunden selb
 Lassen Sie uns, genau wie beim Lieferanten, schnell einen Kunden anlegen.",
 "## Who is a Supplier?
 
-Suppliers are companies or individuals who provide you with products or services. ERPNext has comprehensive features for purchase cycles. 
+Suppliers are companies or individuals who provide you with products or services. ViyagaERP has comprehensive features for purchase cycles. 
 
 Let's quickly create a supplier with the minimal details required. You need the name of the supplier, assign the supplier to a group, and select the type of the supplier, viz. Company or Individual.","## Wer ist ein Lieferant?
 
-Lieferanten sind Unternehmen oder Einzelpersonen, die Ihnen Produkte oder Dienstleistungen zur Verfügung stellen. ERPNext verfügt über umfassende Funktionen für Einkaufszyklen. 
+Lieferanten sind Unternehmen oder Einzelpersonen, die Ihnen Produkte oder Dienstleistungen zur Verfügung stellen. ViyagaERP verfügt über umfassende Funktionen für Einkaufszyklen. 
 
 Lassen Sie uns schnell einen Lieferanten mit den minimal erforderlichen Details anlegen. Sie benötigen den Namen des Lieferanten, müssen den Lieferanten einer Gruppe zuordnen und den Typ des Lieferanten auswählen, d. h. Unternehmen oder Einzelperson.",
 % Finished Item Quantity,% fertige Artikelmenge,
@@ -10496,7 +10496,7 @@ Hide Images,Bilder ausblenden,
 Holiday Date {0} added multiple times,Arbeitsfreier Tag {0} mehrfach hinzugefügt,
 Hours Spent,Geleistete Stunden,
 How often should Project be updated of Total Purchase Cost ?,Wie häufig sollen Projekte hinsichtlich der Gesamteinkaufskosten aktualisiert werden?,
-How to Navigate in ERPNext,So navigieren Sie in ERPNext,
+How to Navigate in ViyagaERP,So navigieren Sie in ViyagaERP,
 Idle,Leerlauf,
 "If an operation is divided into sub operations, they can be added here.","Wenn ein Vorgang in Untervorgänge unterteilt ist, können diese hier hinzugefügt werden.",
 "If checked, Rejected Quantity will be included while making Purchase Invoice from Purchase Receipt.","Falls aktiviert, wird die abgelehnte Menge bei der Erstellung der Eingangsrechnung aus dem Eingangsbeleg berücksichtigt.",
@@ -10521,7 +10521,7 @@ If enabled then system won't override the picked qty / batches / serial numbers.
 "If the BOM results in Scrap material, the Scrap Warehouse needs to be selected.","Wenn die Stückliste Schrottmaterial ergibt, muss ein Schrottlager ausgewählt werden.",
 "If the selected BOM has Operations mentioned in it, the system will fetch all Operations from BOM, these values can be changed.","Wenn die ausgewählte Stückliste Vorgänge enthält, holt das System alle Vorgänge aus der Stückliste. Diese Werte können geändert werden.",
 "If this checkbox is enabled, then the system won’t run the MRP for the available sub-assembly items.","Falls aktiviert, führt das System keine Bedarfsplanung für verfügbaren Unterbaugruppen durch.",
-"If you are maintaining stock of this Item in your Inventory, ERPNext will make a stock ledger entry for each transaction of this item.","Wenn Sie diesen Artikel in Ihrem Inventar führen, nimmt ERPNext für jede Transaktion dieses Artikels einen Lagerbuch-Eintrag vor.",
+"If you are maintaining stock of this Item in your Inventory, ViyagaERP will make a stock ledger entry for each transaction of this item.","Wenn Sie diesen Artikel in Ihrem Inventar führen, nimmt ViyagaERP für jede Transaktion dieses Artikels einen Lagerbuch-Eintrag vor.",
 "If you need to reconcile particular transactions against each other, then please select accordingly. If not, all the transactions will be allocated in FIFO order.","Wenn Sie bestimmte Transaktionen gegeneinander abgleichen müssen, wählen Sie bitte entsprechend aus. Wenn nicht, werden alle Transaktionen in der FIFO-Reihenfolge zugeordnet.",
 "If you still want to proceed, please disable 'Skip Available Sub Assembly Items' checkbox.","Wenn Sie trotzdem fortfahren möchten, deaktivieren Sie bitte das Kontrollkästchen 'Verfügbare Unterbaugruppenartikel überspringen'.",
 "If you still want to proceed, please enable {0}.","Wenn Sie dennoch fortfahren möchten, aktivieren Sie bitte {0}.",
@@ -10714,7 +10714,7 @@ Let's Set Up the Buying Module.,Lassen Sie uns den Einkauf einrichten.,
 Let's Set Up the Manufacturing Module.,Lassen Sie uns die Fertigung einrichten.,
 Let's Set Up the Selling Module.,Lassen Sie uns den Vertrieb einrichten.,
 Let's Set Up the Stock Module.,Lassen Sie uns die Lagerhaltung einrichten.,
-Let's begin your journey with ERPNext,Beginnen wir Ihre Reise mit ERPNext,
+Let's begin your journey with ViyagaERP,Beginnen wir Ihre Reise mit ViyagaERP,
 Let's create a Purchase Receipt,Lassen Sie uns einen Eingangsbeleg erstellen,
 Let's create a new Asset item,Lassen Sie uns einen neuen Vermögensgegenstand-Artikel erstellen,
 Let's review existing Asset Category,Lassen Sie uns die bestehende Vermögensgegenstand-Kategorie überprüfen,
@@ -11778,7 +11778,7 @@ You can't make any changes to Job Card since Work Order is closed.,"Sie können 
 You cannot create/amend any accounting entries till this date.,Bis zu diesem Datum können Sie keine Buchungen erstellen/berichtigen.,
 You have entered a duplicate Delivery Note on Row,Sie haben mehrere Lieferscheine eingegeben,
 You haven't created a {0} yet,Sie haben noch kein(en) {0} erstellt,
-You're ready to start your journey with ERPNext,"Sie sind bereit, Ihre Reise mit ERPNext zu beginnen",
+You're ready to start your journey with ViyagaERP,"Sie sind bereit, Ihre Reise mit ViyagaERP zu beginnen",
 Your Name (required),Ihr Name (erforderlich),
 Your email has been verified and your appointment has been scheduled,Ihre E-Mail wurde verifiziert und Ihr Termin wurde geplant,
 `Allow Negative rates for Items`,„Negative Preise für Artikel zulassen“,
