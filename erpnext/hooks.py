@@ -4,7 +4,7 @@ app_publisher = "Frappe Technologies Pvt. Ltd."
 app_description = """ERP made simple"""
 app_icon = "fa fa-th"
 app_color = "#e74c3c"
-app_email = "hello@frappe.io"
+app_email = "hello@viyaga.io"
 app_license = "GNU General Public License (v3)"
 source_link = "https://github.com/frappe/erpnext"
 app_logo_url = "/assets/erpnext/images/viyaga-v-logo.svg"
@@ -483,7 +483,7 @@ email_brand_image = "assets/erpnext/images/erpnext-logo.jpg"
 default_mail_footer = """
 	<span>
 		Sent via
-		<a class="text-muted" href="https://frappe.io/erpnext?source=via_email_footer" target="_blank">
+		<a class="text-muted" href="https://viyaga.io/erpnext?source=via_email_footer" target="_blank">
 			ERPNext
 		</a>
 	</span>

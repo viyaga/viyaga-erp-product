@@ -121,7 +121,7 @@ jobs:
         env:
           TYPE: server
           CI_BUILD_ID: ${{ github.run_id }}
-          ORCHESTRATOR_URL: http://test-orchestrator.frappe.io
+          ORCHESTRATOR_URL: http://test-orchestrator.viyaga.io
 
       - name: Show bench output
         if: ${{ always() }}

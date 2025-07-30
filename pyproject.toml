@@ -1,7 +1,7 @@
 [project]
 name = "erpnext"
 authors = [
-    { name = "Frappe Technologies Pvt Ltd", email = "developers@frappe.io"}
+    { name = "Frappe Technologies Pvt Ltd", email = "developers@viyaga.io"}
 ]
 description = "Open Source ERP"
 requires-python = ">=3.10"
@@ -70,6 +70,6 @@ docstring-code-format = true
 
 
 [project.urls]
-Homepage = "https://frappe.io/erpnext"
+Homepage = "https://viyaga.io/erpnext"
 Repository = "https://github.com/frappe/erpnext.git"
 "Bug Reports" = "https://github.com/frappe/erpnext/issues"

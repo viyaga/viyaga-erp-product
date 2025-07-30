@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://erpnext.com">
+    <a href="https://viyaga.com">
         <img src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/viyaga-v-logo.png" height="128">
     </a>
     <h2>ERPNext</h2>
@@ -13,26 +13,26 @@
 [![codecov](https://codecov.io/gh/frappe/erpnext/branch/develop/graph/badge.svg?token=0TwvyUg3I5)](https://codecov.io/gh/frappe/erpnext)
 [![docker pulls](https://img.shields.io/docker/pulls/frappe/erpnext-worker.svg)](https://hub.docker.com/r/frappe/erpnext-worker)
 
-[https://erpnext.com](https://erpnext.com)
+[https://viyaga.com](https://viyaga.com)
 
 </div>
 
 ERPNext as a monolith includes the following areas for managing businesses:
 
-1. [Accounting](https://erpnext.com/open-source-accounting)
-1. [Warehouse Management](https://erpnext.com/distribution/warehouse-management-system)
-1. [CRM](https://erpnext.com/open-source-crm)
-1. [Sales](https://erpnext.com/open-source-sales-purchase)
-1. [Purchase](https://erpnext.com/open-source-sales-purchase)
-1. [HRMS](https://erpnext.com/open-source-hrms)
-1. [Project Management](https://erpnext.com/open-source-projects)
-1. [Support](https://erpnext.com/open-source-help-desk-software)
-1. [Asset Management](https://erpnext.com/open-source-asset-management-software)
-1. [Quality Management](https://erpnext.com/docs/user/manual/en/quality-management)
-1. [Manufacturing](https://erpnext.com/open-source-manufacturing-erp-software)
-1. [Website Management](https://erpnext.com/open-source-website-builder-software)
-1. [Customize ERPNext](https://erpnext.com/docs/user/manual/en/customize-erpnext)
-1. [And More](https://erpnext.com/docs/user/manual/en/)
+1. [Accounting](https://viyaga.com/open-source-accounting)
+1. [Warehouse Management](https://viyaga.com/distribution/warehouse-management-system)
+1. [CRM](https://viyaga.com/open-source-crm)
+1. [Sales](https://viyaga.com/open-source-sales-purchase)
+1. [Purchase](https://viyaga.com/open-source-sales-purchase)
+1. [HRMS](https://viyaga.com/open-source-hrms)
+1. [Project Management](https://viyaga.com/open-source-projects)
+1. [Support](https://viyaga.com/open-source-help-desk-software)
+1. [Asset Management](https://viyaga.com/open-source-asset-management-software)
+1. [Quality Management](https://viyaga.com/docs/user/manual/en/quality-management)
+1. [Manufacturing](https://viyaga.com/open-source-manufacturing-erp-software)
+1. [Website Management](https://viyaga.com/open-source-website-builder-software)
+1. [Customize ERPNext](https://viyaga.com/docs/user/manual/en/customize-erpnext)
+1. [And More](https://viyaga.com/docs/user/manual/en/)
 
 ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 
@@ -62,18 +62,18 @@ New passwords will be created for the ERPNext "Administrator" user, the MariaDB 
 
 ## Learning and community
 
-1. [Frappe School](https://school.frappe.io) - Learn Frappe Framework and ERPNext from the various courses by the maintainers or from the community.
-2. [Official documentation](https://docs.erpnext.com/) - Extensive documentation for ERPNext.
-3. [Discussion Forum](https://discuss.erpnext.com/) - Engage with community of ERPNext users and service providers.
+1. [Frappe School](https://school.viyaga.io) - Learn Frappe Framework and ERPNext from the various courses by the maintainers or from the community.
+2. [Official documentation](https://docs.viyaga.com/) - Extensive documentation for ERPNext.
+3. [Discussion Forum](https://discuss.viyaga.com/) - Engage with community of ERPNext users and service providers.
 4. [Telegram Group](https://erpnext_public.t.me) - Get instant help from huge community of users.
 
 
 ## Contributing
 
 1. [Issue Guidelines](https://github.com/frappe/erpnext/wiki/Issue-Guidelines)
-1. [Report Security Vulnerabilities](https://erpnext.com/security)
+1. [Report Security Vulnerabilities](https://viyaga.com/security)
 1. [Pull Request Requirements](https://github.com/frappe/erpnext/wiki/Contribution-Guidelines)
-1. [Translations](https://translate.erpnext.com)
+1. [Translations](https://translate.viyaga.com)
 
 
 ## License

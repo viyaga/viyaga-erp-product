@@ -1,7 +1,7 @@
 # Copyright (c) 2015, Frappe Technologies Pvt. Ltd. and Contributors
 # License: GNU General Public License v3. See license.txt
 
-# ERPNext - web based ERP (http://erpnext.com)
+# ERPNext - web based ERP (http://viyaga.com)
 # For license information, please see license.txt
 
 

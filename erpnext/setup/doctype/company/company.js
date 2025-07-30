@@ -1,7 +1,7 @@
 // Copyright (c) 2015, Frappe Technologies Pvt. Ltd. and Contributors
 // License: GNU General Public License v3. See license.txt
 
-frappe.provide("erpnext.company");
+frappe.provide("viyaga.company");
 
 frappe.ui.form.on("Company", {
 	onload: function (frm) {
@@ -80,7 +80,7 @@ frappe.ui.form.on("Company", {
 	},
 
 	refresh: function (frm) {
-		erpnext.company.setup_queries(frm);
+		viyaga.company.setup_queries(frm);
 
 		frm.toggle_display("address_html", !frm.is_new());
 
@@ -156,7 +156,7 @@ frappe.ui.form.on("Company", {
 			}
 		}
 
-		erpnext.company.set_chart_of_accounts_options(frm.doc);
+		viyaga.company.set_chart_of_accounts_options(frm.doc);
 	},
 
 	make_default_tax_template: function (frm) {
@@ -171,7 +171,7 @@ frappe.ui.form.on("Company", {
 	},
 
 	country: function (frm) {
-		erpnext.company.set_chart_of_accounts_options(frm.doc);
+		viyaga.company.set_chart_of_accounts_options(frm.doc);
 	},
 
 	delete_company_transactions: function (frm) {
@@ -222,7 +222,7 @@ frappe.ui.form.on("Company", {
 	},
 });
 
-erpnext.company.set_chart_of_accounts_options = function (doc) {
+viyaga.company.set_chart_of_accounts_options = function (doc) {
 	var selected_value = doc.chart_of_accounts;
 	if (doc.country) {
 		return frappe.call({
@@ -242,7 +242,7 @@ erpnext.company.set_chart_of_accounts_options = function (doc) {
 	}
 };
 
-erpnext.company.setup_queries = function (frm) {
+viyaga.company.setup_queries = function (frm) {
 	$.each(
 		[
 			["default_bank_account", { account_type: "Bank" }],
@@ -286,7 +286,7 @@ erpnext.company.setup_queries = function (frm) {
 			["default_advance_paid_account", { root_type: "Asset", account_type: "Payable" }],
 		],
 		function (i, v) {
-			erpnext.company.set_custom_query(frm, v);
+			viyaga.company.set_custom_query(frm, v);
 		}
 	);
 
@@ -308,13 +308,13 @@ erpnext.company.setup_queries = function (frm) {
 				],
 			],
 			function (i, v) {
-				erpnext.company.set_custom_query(frm, v);
+				viyaga.company.set_custom_query(frm, v);
 			}
 		);
 	}
 };
 
-erpnext.company.set_custom_query = function (frm, v) {
+viyaga.company.set_custom_query = function (frm, v) {
 	var filters = {
 		company: frm.doc.name,
 		is_group: 0,
