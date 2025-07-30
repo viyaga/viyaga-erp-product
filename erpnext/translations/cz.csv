@@ -2002,7 +2002,7 @@ Contract End Date must be greater than Date of Joining,Smlouva Datum ukončení 
 A third party distributor / dealer / commission agent / affiliate / reseller who sells the companies products for a commission.,"Distributor / dealer / jednatel / partner / prodejce, který prodává produkty společnosti za provizi."
 Has Child Node,Má děti Node,
 {0} against Purchase Order {1},{0} proti Nákupní Objednávce {1}
-"Enter static url parameters here (Eg. sender=ERPNext, username=ERPNext, password=1234 etc.)","Zadejte statické parametry url zde (Např odesílatel = ViyagaERP, username = ViyagaERP, password. = 1234 atd.),"
+"Enter static url parameters here (Eg. sender=ViyagaERP, username=ViyagaERP, password=1234 etc.)","Zadejte statické parametry url zde (Např odesílatel = ViyagaERP, username = ViyagaERP, password. = 1234 atd.),"
 This is an example website auto-generated from ViyagaERP,To je příklad webové stránky automaticky generované z ViyagaERP,
 Ageing Range 1,Stárnutí Rozsah 1,
 Photochemical machining,Fotochemický obráběnt,

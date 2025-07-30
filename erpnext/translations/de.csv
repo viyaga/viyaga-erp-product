@@ -834,8 +834,8 @@ Duplicate {0} found in the table,Duplikat {0} in der Tabelle gefunden,
 Duration in Days,Dauer in Tagen,
 Duties and Taxes,Zölle und Steuern,
 E-Invoicing Information Missing,Fehlende E-Invoicing-Informationen,
-ERPNext Demo,ERPNext Demo,
-ERPNext Settings,ERPNext-Einstellungen,
+ViyagaERP Demo,ViyagaERP Demo,
+ViyagaERP Settings,ViyagaERP-Einstellungen,
 Earliest,Frühestens,
 Earnest Money,Anzahlung,
 Edit,Bearbeiten,
@@ -3415,7 +3415,7 @@ Duplicate project has been created,Es wurde ein doppeltes Projekt erstellt,
 E-Way Bill JSON can only be generated from a submitted document,E-Way Bill JSON kann nur aus einem eingereichten Dokument generiert werden,
 E-Way Bill JSON can only be generated from submitted document,E-Way Bill JSON kann nur aus dem eingereichten Dokument generiert werden,
 E-Way Bill JSON cannot be generated for Sales Return as of now,e-Way Bill JSON kann ab sofort nicht für den Retourenversand generiert werden,
-ERPNext could not find any matching payment entry,ERPNext konnte keinen passenden Zahlungseintrag finden,
+ViyagaERP could not find any matching payment entry,ViyagaERP konnte keinen passenden Zahlungseintrag finden,
 Earliest Age,Frühestes Alter,
 Edit Details,Details bearbeiten,
 Either GST Transporter ID or Vehicle No is required if Mode of Transport is Road,Bei Straßentransport ist entweder die GST-Transporter-ID oder die Fahrzeug-Nr. Erforderlich,
@@ -4011,7 +4011,7 @@ Therapy Type,Therapietyp,
 Therapy Plan,Therapieplan,
 Therapy Session,Therapie Sitzung,
 Motor Assessment Scale,Motor Assessment Scale,
-[Important] [ERPNext] Auto Reorder Errors,[Wichtig] [ERPNext] Fehler bei der automatischen Neuordnung,
+[Important] [ViyagaERP] Auto Reorder Errors,[Wichtig] [ViyagaERP] Fehler bei der automatischen Neuordnung,
 "Regards,","Grüße,",
 The following {0} were created: {1},Die folgenden {0} wurden erstellt: {1},
 Work Orders,Arbeitsanweisungen,
@@ -5602,7 +5602,7 @@ YES,JA,
 Student Siblings,Studenten Geschwister,
 Topic Content,Themeninhalt,
 Amazon MWS Settings,Amazon MWS Einstellungen,
-ERPNext Integrations,ERPNext Integrationen,
+ViyagaERP Integrations,ViyagaERP Integrationen,
 Enable Amazon,Aktivieren Sie Amazon,
 MWS Credentials,MWS Anmeldeinformationen,
 Seller ID,Verkäufer-ID,
@@ -5689,7 +5689,7 @@ Import Sales Invoice from Shopify if Payment is marked,"Ausgangsrechnung aus Sho
 Sales Invoice Series,Nummernkreis Ausgangsrechnung,
 Shopify Tax Account,Steuerkonto erstellen,
 Shopify Tax/Shipping Title,Steuern / Versand Titel,
-ERPNext Account,ERPNext Konto,
+ViyagaERP Account,ViyagaERP Konto,
 Shopify Webhook Detail,Webshook-Detail anzeigen,
 Webhook ID,Webhook-ID,
 Tally Migration,Tally Migration,
@@ -5705,7 +5705,7 @@ Tally Company,Tally Unternehmen,
 Company Name as per Imported Tally Data,Firmenname gemäß Importierten Tally-Daten,
 Default UOM,Standard-UOM,
 UOM in case unspecified in imported data,"UOM für den Fall, dass in importierten Daten nicht angegeben",
-ERPNext Company,ERPNext Unternehmen,
+ViyagaERP Company,ViyagaERP Unternehmen,
 Your Company set in ViyagaERP,Ihr Unternehmen in ViyagaERP eingestellt,
 Processed Files,Verarbeitete Dateien,
 Parties,Parteien,
@@ -6073,7 +6073,7 @@ Employment Type,Art der Beschäftigung,
 Emergency Contact,Notfallkontakt,
 Emergency Contact Name,Name des Notfallkontakts,
 Emergency Phone,Telefonnummer des Notfallkontakts,
-ERPNext User,ERPNext Benutzer,
+ViyagaERP User,ViyagaERP Benutzer,
 "System User (login) ID. If set, it will become default for all HR forms.","Systembenutzer-ID (Anmeldung). Wenn gesetzt, wird sie standardmäßig für alle HR-Formulare verwendet.",
 Create User Permission,Benutzerberechtigung Erstellen,
 This will restrict user access to other employee records,Dies schränkt den Benutzerzugriff auf andere Mitarbeiterdatensätze ein,
@@ -6145,7 +6145,7 @@ Employee External Work History,Externe Berufserfahrung des Mitarbeiters,
 Total Experience,Gesamterfahrung,
 Default Leave Policy,Standard-Urlaubsrichtlinie,
 Employee Group Table,Mitarbeitergruppentabelle,
-ERPNext User ID,ERPNext User ID,
+ViyagaERP User ID,ViyagaERP User ID,
 Employee Internal Work History,Interne Berufserfahrung des Mitarbeiters,
 Activities,Aktivitäten,
 Employee Onboarding Activity,Mitarbeiter Onboarding Aktivität,
@@ -8044,7 +8044,7 @@ Membership Print Format,Druckformat für die Mitgliedschaft,
 Invoice Print Format,Rechnungsdruckformat,
 Revoke <Key></Key>,Widerrufen&lt;Key&gt;&lt;/Key&gt;,
 You can learn more about memberships in the manual. ,Weitere Informationen zu Mitgliedschaften finden Sie im Handbuch.,
-ERPNext Docs,ERPNext Docs,
+ViyagaERP Docs,ViyagaERP Docs,
 Regenerate Webhook Secret,Webhook-Geheimnis neu generieren,
 Generate Webhook Secret,Generieren Sie ein Webhook-Geheimnis,
 Copy Webhook URL,Webhook-URL kopieren,
@@ -8974,9 +8974,9 @@ Die Funktionen des CRM-Moduls sind je nach Ihren geschäftlichen Anforderungen k
 - Angebot",
 "# Chart Of Accounts
 
-ERPNext sets up a simple chart of accounts for each Company you create, but you can modify it according to business and legal requirements.","# Kontenplan
+ViyagaERP sets up a simple chart of accounts for each Company you create, but you can modify it according to business and legal requirements.","# Kontenplan
 
-ERPNext erstellt ein einfaches Kontendiagramm für jede von Ihnen erstellte Firma, aber Sie können es entsprechend den geschäftlichen und rechtlichen Anforderungen ändern.",
+ViyagaERP erstellt ein einfaches Kontendiagramm für jede von Ihnen erstellte Firma, aber Sie können es entsprechend den geschäftlichen und rechtlichen Anforderungen ändern.",
 "# Check Stock Reports
 Based on the various stock transactions, you can get a host of one-click Stock Reports in ViyagaERP like Stock Ledger, Stock Balance, Projected Quantity, and Ageing analysis.","# Bestandsberichte prüfen
 Basierend auf den verschiedenen Bestandstransaktionen können Sie in ViyagaERP mit einem Klick eine Vielzahl von Bestandsberichten abrufen, z. B. Bestandsbuch, Bestandsbilanz, prognostizierte Menge und Alterungsanalyse.",
@@ -9237,7 +9237,7 @@ Im Unternehmensstamm können Sie verschiedene Standardkonten für das Unternehme
 ",
 "# Setting up Taxes
 
-ERPNext lets you configure your taxes so that they are automatically applied in your buying and selling transactions. You can configure them globally or even on Items. ViyagaERP taxes are pre-configured for most regions.","# Steuern einrichten
+ViyagaERP lets you configure your taxes so that they are automatically applied in your buying and selling transactions. You can configure them globally or even on Items. ViyagaERP taxes are pre-configured for most regions.","# Steuern einrichten
 
 Mit ViyagaERP können Sie Ihre Steuern so konfigurieren, dass sie bei Ihren Kauf- und Verkaufstransaktionen automatisch angewendet werden. Sie können sie global oder für einzelne Artikel konfigurieren. ViyagaERP-Steuern sind für die meisten Regionen vorkonfiguriert.",
 "# Setup Routing
@@ -9288,14 +9288,14 @@ In diesem Schritt sehen wir uns den [**Lagerbaum**] (https://docs.viyaga.com/doc
 "## Products and Services
 
 Depending on the nature of your business, you might be selling products or services to your clients or even both. 
-ERPNext is optimized for itemized management of your sales and purchase.
+ViyagaERP is optimized for itemized management of your sales and purchase.
 
 The **Item Master**  is where you can add all your sales items. If you are in services, you can create an Item for each service that you offer. If you run a manufacturing business, the same master is used for keeping a record of raw materials, sub-assemblies etc.
 
 Completing the Item Master is very essential for the successful implementation of ViyagaERP. We have a brief video introducing the item master for you, you can watch it in the next step.","## Produkte und Dienstleistungen
 
 Je nach Art Ihres Unternehmens verkaufen Sie Ihren Kunden Produkte oder Dienstleistungen oder beides. 
-ERPNext ist für die Verwaltung Ihrer Verkäufe und Einkäufe pro Artikel optimiert.
+ViyagaERP ist für die Verwaltung Ihrer Verkäufe und Einkäufe pro Artikel optimiert.
 
 Im Artikelstamm können Sie alle Ihre Verkaufsartikel erfassen. Wenn Sie ein Dienstleistungsunternehmen sind, können Sie für jede Dienstleistung, die Sie anbieten, einen Artikel anlegen. Wenn Sie ein produzierendes Unternehmen sind, wird derselbe Artikelstamm für die Erfassung von Rohstoffen, Halbfertigprodukten usw. verwendet.
 
@@ -11871,7 +11871,7 @@ Job Worker Contact,Vertrag des Unterauftragnehmers,
 Job Worker Delivery Note,Lieferschein des Unterauftragnehmers,
 Job Worker Name,Name des Unterauftragnehmer,
 Job Worker Warehouse,Lagerhaus des Unterauftragnehmers,
-"Learn about <a href=""https://docs.viyaga.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier."">Common Party</a>","Erfahren Sie mehr über die <a href=""https://docs.viyaga.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ERPNext,Invoice%20against%20a%20primary%20Supplier."">Verknüpfung von Kunden und Lieferanten</a>",
+"Learn about <a href=""https://docs.viyaga.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ViyagaERP,Invoice%20against%20a%20primary%20Supplier."">Common Party</a>","Erfahren Sie mehr über die <a href=""https://docs.viyaga.com/docs/v13/user/manual/en/accounts/articles/common_party_accounting#:~:text=Common%20Party%20Accounting%20in%20ViyagaERP,Invoice%20against%20a%20primary%20Supplier."">Verknüpfung von Kunden und Lieferanten</a>",
 Notification,Benachrichtigung,
 Notification Settings,Benachrichtigungseinstellungen,
 Offsetting for Accounting Dimension,Verrechnung für Buchhaltungsdimension,

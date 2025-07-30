@@ -2,7 +2,7 @@
     <a href="https://viyaga.com">
         <img src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/viyaga-v-logo.png" height="128">
     </a>
-    <h2>ERPNext</h2>
+    <h2>ViyagaERP</h2>
     <p align="center">
         <p>ERP made simple</p>
     </p>
@@ -17,7 +17,7 @@
 
 </div>
 
-ERPNext as a monolith includes the following areas for managing businesses:
+ViyagaERP as a monolith includes the following areas for managing businesses:
 
 1. [Accounting](https://viyaga.com/open-source-accounting)
 1. [Warehouse Management](https://viyaga.com/distribution/warehouse-management-system)
@@ -34,7 +34,7 @@ ERPNext as a monolith includes the following areas for managing businesses:
 1. [Customize ViyagaERP](https://viyaga.com/docs/user/manual/en/customize-erpnext)
 1. [And More](https://viyaga.com/docs/user/manual/en/)
 
-ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
+ViyagaERP is built on the [Frappe Framework](https://github.com/frappe/frappe), a full-stack web app framework built with Python & JavaScript.
 
 ## Installation
 
