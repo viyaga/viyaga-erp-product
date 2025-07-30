@@ -1,14 +1,26 @@
-.desk-sidebar-item:has(a[title="ViyagaERP Settings"]),
-.desk-sidebar-item a[title="ViyagaERP Settings"] {
+.desk-sidebar-item:has(a[title="ERPNext Settings"]),
+.desk-sidebar-item a[title="ERPNext Settings"] {
     display: none !important;
 }
 
-.desk-sidebar-item:has(a[title="ViyagaERP Integrations"]),
-.desk-sidebar-item a[title="ViyagaERP Integrations"] {
+.desk-sidebar-item:has(a[title="ERPNext Integrations"]),
+.desk-sidebar-item a[title="ERPNext Integrations"] {
     display: none !important;
 }
 
 .desk-sidebar-item:has(a[title="Build"]),
 .desk-sidebar-item a[title="Build"] {
+    display: none !important;
+}
+
+.desk-sidebar-item a[href="/app/erpnext-settings"] {
+    display: none !important;
+}
+
+.desk-sidebar-item a[href="/app/erpnext-integrations"] {
+    display: none !important;
+}
+
+.desk-sidebar-item a[href="/app/build"] {
     display: none !important;
 }
