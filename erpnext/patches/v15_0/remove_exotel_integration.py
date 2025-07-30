@@ -24,7 +24,7 @@ def execute():
 def notify_existing_users():
 	click.secho(
 		"Exotel integration is moved to a separate app and will be removed from ViyagaERP in version-15.\n"
-		"Please install the app to continue using the integration: https://github.com/frappe/exotel_integration",
+		"Please install the app to continue using the integration: https://github.com/viyaga/exotel_integration",
 		fg="yellow",
 	)
 

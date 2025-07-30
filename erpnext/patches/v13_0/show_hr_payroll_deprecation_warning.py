@@ -11,6 +11,6 @@ def execute():
 		" and will be removed from ViyagaERP in Version 14."
 		" Please install the HRMS app when upgrading to Version 14"
 		" to continue using the HR and Payroll modules:\n"
-		"https://github.com/frappe/hrms",
+		"https://github.com/viyaga/hrms",
 		fg="yellow",
 	)

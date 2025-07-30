@@ -6,7 +6,7 @@ app_icon = "fa fa-th"
 app_color = "#e74c3c"
 app_email = "hello@viyaga.io"
 app_license = "GNU General Public License (v3)"
-source_link = "https://github.com/frappe/erpnext"
+source_link = "https://github.com/viyaga/erpnext"
 app_logo_url = "/assets/erpnext/images/viyaga-v-logo.svg"
 
 

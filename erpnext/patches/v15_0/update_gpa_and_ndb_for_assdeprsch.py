@@ -2,7 +2,7 @@ import frappe
 
 
 def execute():
-	# not using frappe.qb because https://github.com/frappe/frappe/issues/20292
+	# not using frappe.qb because https://github.com/viyaga/frappe/issues/20292
 	# nosemgrep
 	frappe.db.sql(
 		"""UPDATE `tabAsset Depreciation Schedule`

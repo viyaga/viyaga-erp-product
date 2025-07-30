@@ -21,7 +21,7 @@ jobs:
         uses: pre-commit/action@v3.0.0
 
       - name: Download Semgrep rules
-        run: git clone --depth 1 https://github.com/frappe/semgrep-rules.git frappe-semgrep-rules
+        run: git clone --depth 1 https://github.com/viyaga/semgrep-rules.git frappe-semgrep-rules
 
       - name: Download semgrep
         run: pip install semgrep
