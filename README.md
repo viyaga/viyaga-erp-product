@@ -1,3 +1,104 @@
+############################################################
+# 🏗️ SITE CONFIGURATION
+############################################################
+
+bench --site your-site-name set-config developer_mode 1
+bench --site your-site-name set-config allow_updates true
+bench --site your-site-name set-config maintenance_mode 1
+bench --site your-site-name set-config maintenance_mode 0
+bench --site your-site-name set-config pause_scheduler true
+bench --site your-site-name set-config pause_scheduler false
+
+# Global Config
+bench set-config developer_mode 1 --global
+
+
+############################################################
+# 🛠️ SITE MANAGEMENT
+############################################################
+
+bench new-site your-site-name
+bench --site your-site-name install-app erpnext
+bench --site your-site-name reinstall
+bench drop-site your-site-name
+bench backup --site your-site-name
+bench restore /path/to/backup.sql --site your-site-name
+
+
+############################################################
+# 📦 APP MANAGEMENT
+############################################################
+
+bench get-app app-name https://github.com/your-repo.git
+bench --site your-site-name install-app app-name
+bench --site your-site-name uninstall-app app-name
+bench --site your-site-name migrate
+
+
+############################################################
+# 🧪 DEVELOPER UTILITIES
+############################################################
+
+bench --site your-site-name console
+bench --site your-site-name execute frappe.reload_doc --args '("module", "doctype", "DocTypeName")'
+bench --site your-site-name export-fixtures
+bench --site your-site-name export-json "DocType" "DocName"
+bench --site your-site-name import-json "DocType" "DocName"
+
+
+############################################################
+# ⚙️ SERVER & SCHEDULER
+############################################################
+
+bench start
+bench restart
+bench setup supervisor
+bench setup nginx
+sudo supervisorctl restart all
+bench --site your-site-name enable-scheduler
+bench --site your-site-name disable-scheduler
+
+
+############################################################
+# 🔄 PATCHING & UPDATES
+############################################################
+
+bench update
+bench update --patch
+bench --site your-site-name migrate
+bench --site your-site-name reload-doc module doctype DocTypeName
+
+
+############################################################
+# 🧹 CACHE & BUILD
+############################################################
+
+bench clear-cache
+bench clear-website-cache
+bench build
+bench build --force
+
+
+############################################################
+# 🔐 USER & PASSWORD
+############################################################
+
+bench --site your-site-name set-admin-password yourpassword
+bench --site your-site-name add-user user@example.com
+bench --site your-site-name reset-password user@example.com
+
+
+############################################################
+# 🌐 MULTITENANCY
+############################################################
+
+bench config dns_multitenant on
+bench new-site tenant1.local
+bench setup nginx
+sudo service nginx reload
+
+
+
 <div align="center">
     <a href="https://viyaga.com">
         <img src="https://raw.githubusercontent.com/frappe/erpnext/develop/erpnext/public/images/viyaga-v-logo.png" height="128">
