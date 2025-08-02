@@ -1,4 +1,4 @@
-app_name = "erpnext"
+app_name = "viyagaerp"
 app_title = "ViyagaERP"
 app_publisher = "Frappe Technologies Pvt. Ltd."
 app_description = """ERP made simple"""
@@ -12,7 +12,7 @@ app_logo_url = "/assets/erpnext/images/viyaga-v-logo.svg"
 
 add_to_apps_screen = [
 	{
-		"name": "erpnext",
+		"name": "viyagaerp",
 		"logo": "/assets/erpnext/images/viyaga-v-logo-blue.png",
 		"title": "ViyagaERP",
 		"route": "/app/home",
