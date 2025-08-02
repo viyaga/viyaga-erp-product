@@ -13,8 +13,9 @@
   "item_group_name",
   "parent_item_group",
   "is_group",
-  "image",
   "column_break_5",
+  "image",
+  "company",
   "defaults",
   "item_group_defaults",
   "sec_break_taxes",
@@ -127,6 +128,16 @@
    "options": "Item Group",
    "print_hide": 1,
    "report_hide": 1
+  },
+  {
+   "fieldname": "company",
+   "fieldtype": "Link",
+   "in_standard_filter": 1,
+   "label": "Company",
+   "options": "Company",
+   "remember_last_selected_value": 1,
+   "reqd": 1,
+   "search_index": 1
   }
  ],
  "icon": "fa fa-sitemap",
@@ -135,8 +146,8 @@
  "is_tree": 1,
  "links": [],
  "max_attachments": 3,
- "modified": "2024-01-30 14:08:38.485616",
- "modified_by": "Administrator",
+ "modified": "2025-08-02 07:27:36.768960",
+ "modified_by": "viyagaenterprises@gmail.com",
  "module": "Setup",
  "name": "Item Group",
  "naming_rule": "By fieldname",
@@ -202,6 +213,7 @@
    "share": 1
   }
  ],
+ "row_format": "Dynamic",
  "search_fields": "parent_item_group",
  "show_name_in_global_search": 1,
  "sort_field": "modified",
